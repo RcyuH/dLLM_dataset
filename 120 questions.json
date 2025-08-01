@@ -1,0 +1,1442 @@
+[
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 1. Nền quốc phòng toàn dân là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018 được Quốc hội khóa XIV, Kỳ họp thứ 5 thông qua ngày 08/6/2018. Chủ tịch Nước ký Lệnh số 01/2018/L-CTN công bố ngày 22/6/2018. Luật có hiệu lực thi hành từ ngày 01/01/2019, nêu rõ: Nền quốc phòng toàn dân là sức mạnh quốc phòng của đất nước, được xây dựng trên nền tảng chính trị, tinh thần, nhân lực, vật lực, tài chính, mang tính chất toàn dân, toàn diện, độc lập, tự chủ, tự cường."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 2. Nội dung xây dựng nền quốc phòng toàn dân hiện nay được quy định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Khoản 2, điều 7 Luật Quốc phòng năm 2018 quy định nội dung cơ bản xây dựng nền quốc phòng toàn dân, là:\n- Xây dựng chiến lược bảo vệ Tổ quốc, kế hoạch phòng thủ đất nước; nghiên cứu phát triển nghệ thuật quân sự Việt Nam; xây dựng khối đại đoàn kết toàn dân và hệ thống chính trị vững mạnh.\n- Xây dựng lực lượng, tiềm lực quốc phòng; xây dựng lực lượng vũ trang nhân dân vững mạnh, có sức chiến đấu cao làm nòng cốt bảo vệ Tổ quốc.\n- Xây dựng cơ sở vật chất, kỹ thuật; phát triển công nghiệp quốc phòng, an ninh, khoa học, công nghệ quân sự; huy động tiềm lực khoa học, công nghệ của Nhà nước và nhân dân phục vụ quốc phòng; ứng dụng thành tựu khoa học, công nghệ quân sự phù hợp để xây dựng đất nước.\n- Xây dựng, tổ chức thực hiện kế hoạch bảo đảm nhu cầu dự trữ quốc gia cho quốc phòng; chuẩn bị các điều kiện cần thiết bảo đảm động viên quốc phòng.\n- Xây dựng phòng thủ quân khu, khu vực phòng thủ vững chắc toàn diện, hợp thành phòng thủ đất nước; củng cố, tăng cường tiềm lực quốc phòng, an ninh ở các vùng chiến lược, trọng điểm, biển, đảo, khu vực biên giới, địa bàn xung yếu; xây dựng thế trận quốc phòng toàn dân gắn với thế trận an ninh nhân dân trong phạm vi cả nước.\n- Xây dựng và tổ chức thực hiện kế hoạch, biện pháp chiến tranh thông tin, chiến tranh không gian mạng.\n- Xây dựng và tổ chức thực hiện kế hoạch, biện pháp phòng thủ dân sự trong phạm vi cả nước.\n- Đối ngoại quốc phòng.\n- Kết hợp quốc phòng với kinh tế - xã hội và kinh tế - xã hội với quốc phòng; kết hợp quốc phòng với an ninh, đối ngoại.\n- Xây dựng và bảo đảm chế độ, chính sách đối với lực lượng vũ trang nhân dân, thân nhân của người phục vụ trong lực lượng vũ trang nhân dân.\n- Tuyên truyền, phổ biến đường lối, quan điểm của Đảng, chính sách, pháp luật của Nhà nước về quốc phòng; thực hiện giáo dục quốc phòng và an ninh."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 3. Quyền và nghĩa vụ của công dân về quốc phòng được quy định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018 nêu rõ:\n1. Bảo vệ Tổ quốc là nghĩa vụ thiêng liêng và quyền cao quý của công dân.\n2. Công dân có nghĩa vụ trung thành với Tổ quốc; phải thực hiện nghĩa vụ quân sự; có nghĩa vụ tham gia Dân quân tự vệ, xây dựng nền quốc phòng toàn dân; chấp hành biện pháp của Nhà nước và người có thẩm quyền trong thực hiện nhiệm vụ quốc phòng theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n3. Công dân được tuyên truyền, phổ biến đường lối, quan điểm của Đảng, chính sách, pháp luật của Nhà nước về quốc phòng; giáo dục quốc phòng và an ninh; trang bị kiến thức, kỹ năng về phòng thủ dân sự theo quy định của pháp luật.\n4. Công dân phục vụ trong lực lượng vũ trang nhân dân hoặc được huy động làm nhiệm vụ quốc phòng thì bản thân và thân nhân được hưởng chế độ, chính sách theo quy định của pháp luật.\n5. Công dân bình đẳng trong thực hiện nhiệm vụ quốc phòng."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 4. Thế nào là chiến tranh nhân dân và thế trận quốc phòng toàn dân?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018 quy định:\n- Chiến tranh nhân dân là cuộc chiến tranh toàn dân, toàn diện, lấy lực lượng vũ trang nhân dân làm nòng cốt nhằm bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc và bảo vệ nhân dân, Đảng, Nhà nước, chế độ xã hội chủ nghĩa.\n- Thế trận quốc phòng toàn dân là việc tổ chức, triển khai, bố trí lực lượng, tiềm lực quốc phòng trên toàn bộ lãnh thổ theo kế hoạch thống nhất, phù hợp với chiến lược bảo vệ Tổ quốc để ngăn ngừa, đối phó thắng lợi với mọi âm mưu và hoạt động chống phá của thế lực thù địch, sẵn sàng chuyển đất nước từ thời bình sang thời chiến."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 5. Nhiệm vụ đối ngoại quốc phòng trong tình hình mới được quy định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018, nêu rõ: Đối ngoại quốc phòng để thực hiện đường lối, chính sách đối ngoại của Đảng và Nhà nước, nhằm phát huy sức mạnh tổng hợp của đất nước để xây dựng và bảo vệ Tổ quốc, góp phần vào sự nghiệp hòa bình, độc lập dân tộc, dân chủ và tiến bộ xã hội trên thế giới.\nNhiệm vụ đối ngoại quốc phòng:\n- Thiết lập, phát triển quan hệ quốc phòng với các quốc gia có chủ quyền và các tổ chức quốc tế. \n- Xây dựng, mở rộng quan hệ hữu nghị, hợp tác quốc tế; thực hiện đối thoại về quốc phòng; xây dựng, củng cố lòng tin, sự hiểu biết, tin cậy lẫn nhau, tình đoàn kết giữa Quân đội nhân dân Việt Nam với quân đội các nước trên thế giới. \n- Tham gia xây dựng và thực thi các cơ chế hợp tác quốc phòng song phương, đa phương, khu vực, liên khu vực và toàn cầu vì mục tiêu hòa bình, ổn định và phát triển. \n- Thông tin đối ngoại về quốc phòng."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 6. Các hành vi nào bị nghiêm cấm trong lĩnh vực quốc phòng?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018 quy định các hành vi bị nghiêm cấm trong lĩnh vực quốc phòng, như sau:\n- Chống lại độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc, nhân dân, Đảng, Nhà nước, chế độ xã hội chủ nghĩa, sự nghiệp xây dựng và bảo vệ Tổ quốc.\n- Thành lập, tham gia, tài trợ tổ chức vũ trang trái pháp luật.\n- Điều động, sử dụng người, vũ khí, vật liệu nổ, công cụ hỗ trợ, trang bị, thiết bị, phương tiện để tiến hành hoạt động vũ trang khi chưa có lệnh hoặc quyết định của cấp có thẩm quyền hoặc không có trong kế hoạch, huấn luyện, diễn tập, sẵn sàng chiến đấu đã được phê duyệt.\n- Chống lại hoặc cản trở cơ quan, tổ chức, cá nhân thực hiện nhiệm vụ quốc phòng.\n- Lợi dụng, lạm dụng việc thực hiện nhiệm vụ quốc phòng để xâm phạm lợi ích quốc gia, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n- Phân biệt đối xử về giới trong thực hiện nhiệm vụ quốc phòng."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 7. Khu vực phòng thủ là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018, nêu rõ: Khu vực phòng thủ là bộ phận hợp thành phòng thủ quân khu, bao gồm các hoạt động về chính trị, tinh thần, kinh tế, văn hóa, xã hội, khoa học, công nghệ, quân sự, an ninh, đối ngoại; được tổ chức theo địa bàn cấp tỉnh, cấp huyện, đơn vị hành chính - kinh tế đặc biệt, lấy xây dựng cấp xã làm nền tảng để bảo vệ địa phương."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 8. Nhiệm vụ khu vực phòng thủ được quy định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018, quy định 08 nhiệm vụ, là:\n- Xây dựng và tổ chức thực hiện kế hoạch khu vực phòng thủ.\n- Xây dựng tiềm lực về chính trị, tinh thần, kinh tế, văn hóa, xã hội, khoa học và công nghệ, quân sự, an ninh, đối ngoại; xây dựng nền quốc phòng toàn dân, thế trận quốc phòng toàn dân gắn với nền an ninh nhân dân, thế trận an ninh nhân dân.\n- Xây dựng lực lượng vũ trang địa phương vững mạnh toàn diện, có sức chiến đấu cao, làm nòng cốt trong thực hiện nhiệm vụ quốc phòng quân sự, an ninh.\n- Nắm chắc tình hình, thực hiện các biện pháp ngăn ngừa, đấu tranh làm thất bại mọi âm mưu, hoạt động chống phá của các thế lực thù địch, bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội, đấu tranh phòng, chống tội phạm, tạo môi trường thuận lợi để phát triển kinh tế xã hội; chiến đấu bảo vệ địa phương, tạo thế và lực cho bộ đội chủ lực hoạt động tác chiến trên địa bàn; sẵn sàng chi viện sức người, sức của cho địa phương khác.\n- Xây dựng kế hoạch và chỉ đạo, hướng dẫn cơ quan, đơn vị trên địa bàn; phối hợp các cơ quan, tổ chức, đơn vị, địa phương liên quan thực hiện phòng thủ dân sự và các biện pháp về chiến tranh thông tin, chiến tranh không gian mạng.\n- Chuẩn bị mọi mặt, thực hiện lệnh, quyết định, biện pháp trong giới nghiêm, thiết quân luật, tình trạng khẩn cấp về quốc phòng, tình trạng chiến tranh, động viên cục bộ, tổng động viên, đáp ứng yêu cầu chiến đấu và phục vụ chiến đấu lâu dài của địa phương; sẵn sàng vũ trang toàn dân bảo vệ Tổ quốc.\n- Thực hiện chính sách hậu phương Quân đội, chính sách ưu đãi người có công với cách mạng.\n- Thực hiện nhiệm vụ khác do cấp có thẩm quyền giao."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 9. Thiết quân luật là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Khi nào thì được áp dụng thiết quân luật?\nTrả lời\nLuật Quốc phòng năm 2018, nêu: Thiết quân luật là biện pháp quản lý nhà nước đặc biệt có thời hạn do Quân đội thực hiện. \nThiết quân luật được áp dụng khi an ninh chính trị, trật tự, an toàn xã hội ở một hoặc một số địa phương bị xâm phạm nghiêm trọng tới mức chính quyền ở đó không còn kiểm soát được tình hình thì Chủ tịch nước ra lệnh thiết quân luật theo đề nghị của Chính phủ."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 10. Những biện pháp đặc biệt được áp dụng trong thời gian thi hành lệnh thiết quân luật là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018, nêu 5 biện pháp đặc biệt được áp dụng trong thời gian thi hành lệnh thiết quân luật là:\n- Cấm hoặc hạn chế người, phương tiện đi lại; đình chỉ hoặc hạn chế hoạt động tại các nơi công cộng.\n- Cấm biểu tình, đình công, bãi thị, bãi khóa, tụ tập đông người.\n- Bắt giữ hoặc cưỡng chế cá nhân, tổ chức có hoạt động xâm hại đến quốc phòng, an ninh phải rời khỏi hoặc cấm đi khỏi nơi cư trú hoặc một khu vực nhất định.\n- Huy động người, phương tiện của cơ quan, tổ chức, cá nhân.\n- Quản lý đặc biệt đối với các loại vũ khí, vật liệu nổ, công cụ hỗ trợ, chất cháy, chất độc, chất phóng xạ; kiểm soát chặt chẽ cơ sở hạ tầng công nghệ thông tin, phương tiện thông tin, hoạt động báo chí, xuất bản, cơ sở in, sao chụp, việc thu thập sử dụng thông tin."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 11. Giới nghiêm là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018 nêu: Giới nghiêm là biện pháp cấm, hạn chế người, phương tiện đi lại và hoạt động vào những giờ nhất định tại những khu vực nhất định, trừ trường hợp được phép theo quy định của người có thẩm quyền tổ chức thực hiện lệnh giới nghiêm."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 12. Những biện pháp được áp dụng trong thời gian giới nghiêm?"
+            },
+            {
+                "role": "assistant",
+                "content": "Luật Quốc phòng năm 2018 nêu các biện pháp được áp dụng trong thời gian giới nghiêm, như sau: \n- Cấm tụ tập đông người.\n- Cấm người, phương tiện đi lại, hoạt động trong những giờ nhất định, tại những khu vực nhất định.\n- Đình chỉ hoặc hạn chế hoạt động tại một số nơi công cộng trong những thời điểm nhất định.\n- Đặt trạm canh gác và kiểm soát địa bàn, kiểm tra vật phẩm, hành lý, phương tiện, giấy tờ của người đi lại qua trạm canh gác và kiểm soát.\n- Kịp thời bắt giữ và xử lý người, phương tiện vi phạm lệnh giới nghiêm và vi phạm quy định khác của pháp luật."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 13. An ninh mạng là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "ại Khoản 1, Điều 2, Luật số 24/2018/QH14 Luật An ninh mạng quy định: An ninh mạng là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 14. Các hành vi nào bị nghiêm cấm về an ninh mạng?"
+            },
+            {
+                "role": "assistant",
+                "content": "ại Điều 8, Luật An ninh mạng số 24/2018/QH14 quy định các hành vi bị nghiêm cấm về an ninh mạng như sau:\nMột là, sử dụng không gian mạng để thực hiện hành vi sau đây:\n+ Đăng tải, phát tán thông tin trên không gian mạng có nội dung: \nTuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; kích động gây bạo loạn, phá rối an ninh, gây rối trật tự công cộng; làm nhục, vu khống; xâm phạm trật tự quản lý kinh tế; bịa đặt, sai sự thật gây hoang mang trong Nhân dân, gây thiệt hại cho hoạt động kinh tế - xã hội, gây khó khăn cho hoạt động của cơ quan nhà nước hoặc người thi hành công vụ, xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác. \nHành vi gián điệp mạng; xâm phạm bí mật nhà nước, bí mật công tác, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình và đời sống riêng tư trên không gian mạng.\nChiếm đoạt tài sản; tổ chức đánh bạc, đánh bạc qua mạng internet; vi phạm bản quyền và sở hữu trí tuệ trên không gian mạng.\nGiả mạo trang thông tin điện tử của cơ quan, tổ chức, cá nhân; làm giả, lưu hành, trộm cắp, mua bán, thu thập, trao đổi trái phép thông tin thẻ tín dụng, tài khoản ngân hàng của người khác; phát hành, cung cấp, sử dụng trái phép các phương tiện thanh toán.\nTuyên truyền, quảng cáo, mua bán hàng hóa, dịch vụ thuộc danh mục cấm theo quy định của pháp luật.\nHướng dẫn người khác thực hiện hành vi vi phạm pháp luật.\nHành vi khác sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật về an ninh quốc gia, trật tự an toàn xã hội.\n+ Tổ chức, hoạt động, cấu kết, xúi giục, mua chuộc, lừa gạt, lôi kéo, đào tạo, huấn luyện người chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n+ Xuyên tạc lịch sử, phủ nhận thành tựu cách mạng, phá hoại khối đại đoàn kết toàn dân tộc, xúc phạm tôn giáo, phân biệt đối xử về giới, phân biệt chủng tộc. \n+ Thông tin sai sự thật gây hoang mang trong Nhân dân, gây thiệt hại cho hoạt động kinh tế - xã hội, gây khó khăn cho hoạt động của cơ quan nhà nước hoặc người thi hành công vụ, xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác.\n+ Hoạt động mại dâm, tệ nạn xã hội, mua bán người; đăng tải thông tin dâm ô, đồi trụy, tội ác; phá hoại thuần phong, mỹ tục của dân tộc, đạo đức xã hội, sức khỏe của cộng đồng.\n+ Xúi giục, lôi kéo, kích động người khác phạm tội.\nHai là, thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.\nBa là, sản xuất, đưa vào sử dụng công cụ, phương tiện, phần mềm hoặc có hành vi cản trở, gây rối loạn hoạt động của mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, phương tiện điện tử; phát tán chương trình tin học gây hại cho hoạt động của mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống  xử lý và điều khiển thông tin, phương tiện điện tử; xâm nhập trái phép vào mạng viễn thông, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử của người khác.\nBốn là, chống lại hoặc cản trở hoạt động của lực lượng bảo vệ an ninh mạng; tấn công, vô hiệu hóa trái pháp luật làm mất tác dụng biện pháp bảo vệ an ninh mạng.\nNăm là, lợi dụng hoặc lạm dụng hoạt động bảo vệ an ninh mạng để xâm phạm chủ quyền, lợi ích, an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân hoặc để trục lợi. \nSáu là, các hành vi khác vi phạm quy định của Luật này."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 15. Mục tiêu An ninh mạng quốc gia được xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 30-NQ/TW ngày 25/7/2018 của Bộ Chính trị về Chiến lược An ninh mạng quốc gia chỉ rõ mục tiêu chung, là: \n- Bảo vệ vững chắc an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng.\n- Phòng ngừa, phát hiện, ngăn chặn, xử lý hiệu quả các hành vi xâm phạm an ninh mạng quốc gia, góp phần bảo vệ vững chắc chủ quyền, lợi ích quốc gia.\n- Xây dựng không gian mạng an toàn, lành mạnh, trở thành nguồn lực quan trọng để xây dựng, phát triển và bảo vệ Tổ quốc."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 16. Quan điểm chỉ đạo của Đảng ta về An ninh mạng quốc gia?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 30-NQ/TW ngày 25/7/2018 của Bộ Chính trị về Chiến lược An ninh mạng quốc gia nêu rõ quan điểm chỉ đạo của Đảng về Chiến lược An ninh mạng quốc gia, là:\nAn ninh mạng có vị trí đặc biệt quan trọng, là nhiệm vụ trọng yếu thường xuyên, vừa cấp bách, vừa lâu dài của cả hệ thống chính trị, của toàn dân, của các cấp, các ngành dưới sự lãnh đạo của Đảng, sự quản lý thống nhất của Nhà nước, trong đó lực lượng Công an nhân dân, Quân đội nhân dân giữ vai trò nòng cốt.\nHuy động và phát huy sức mạnh tổng hợp của hệ thống chính trị và của toàn xã hội trong công tác bảo đảm an ninh mạng. Kết hợp chặt chẽ giữa nhiệm vụ phát triển kinh tế, văn hoá, xã hội, khoa học - công nghệ, đối ngoại với nhiệm vụ bảo đảm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng. Chú trọng công tác tuyên truyền, vận động nâng cao nhận thức và kiến thức về bảo vệ an ninh mạng cho toàn xã hội, từng bước xây dựng thế trận an ninh nhân dân gắn với thế trận quốc phòng toàn dân vững chắc trên không gian mạng.\nTăng cường hiệu lực, hiệu quả quản lý nhà nước về an ninh mạng; quản lý chặt chẽ hoạt động cung cấp, sử dụng dịch vụ viễn thông, Internet tại Việt Nam; nâng cao hiệu quả phối hợp giữa các ngành chức năng trong quản lý nhà nước về an ninh mạng; đề cao trách nhiệm người đứng đầu các cơ quan, tổ chức, đơn vị trong công tác bảo vệ an ninh mạng trong phạm vi địa bàn, lĩnh vực được giao phụ trách. Không để bị động, bất ngờ trong mọi tình huống.\n- Đầu tư cho bảo vệ an ninh mạng là đầu tư cho phát triển và bảo vệ đất nước, ưu tiên đầu tư cho an ninh mạng; đầu tư cho ứng dụng công nghệ thông tin trong các lĩnh vực phải gắn với đầu tư cho bảo vệ an ninh mạng, bảo đảm theo kịp sự phát triển của khoa học - công nghệ của thời đại. Lấy con người, trí tuệ con người làm trung tâm, là nhân tố quyết định, đồng thời tranh thủ tối đa những thành tựu của khoa học - công nghệ; không để bị tụt hậu về con người và công nghệ.\n- Xây dựng lực lượng chuyên trách bảo vệ an ninh mạng chính quy, tinh nhuệ, hiện đại, ngang tầm khu vực và quốc tế; nắm chắc tình hình, chủ động phòng ngừa, đấu tranh, xử lý kịp thời, hiệu quả các thách thức, nguy cơ đe doạ và tình huống nguy hiểm về an ninh mạng; bảo vệ vững chắc chủ quyền, lợi ích, an ninh quốc gia trên không gian mạng.\nHuy động, phát huy hiệu quả các nguồn lực trong nước đi đôi với tăng cường, mở rộng hợp tác quốc tế trong bảo đảm an toàn, an ninh thông tin và an ninh mạng; phát huy mạnh mẽ sức sáng tạo, tinh thần yêu nước, tự hào dân tộc, độc lập, tự chủ, tự lực, tự cường xây dựng và phát triển công nghiệp an ninh mạng."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 17. Mục tiêu bảo vệ Tổ Quốc trong tình hình mới là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 28-NQ/TW ngày 25/10/2013 của Ban Chấp hành Trung ương Đảng khóa XI xác định mục tiêu bảo vệ Tổ Quốc trong tình hình mới, như sau: \n- Bảo vệ vững chắc độc lập, chủ quyền, thống nhất toàn vẹn lãnh thổ của Tổ quốc.\n- Bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa.\n- Bảo vệ sự nghiệp đổi mới; công nghiệp hóa - hiện đại hóa.\n- Bảo vệ lợi ích quốc gia, dân tộc, bảo vệ an ninh chính trị, trật tự an toàn xã hội và nền văn hóa.\n- Giữ vững ổn định chính trị và môi trường hòa bình để xây dựng, phát triển đất nước theo định hướng xã hội chủ nghĩa."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 18. Quan điểm chỉ đạo của Đảng ta trong thực hiện nhiệm vụ bảo vệ Tổ Quốc hiện nay như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 28-NQ/TW ngày 25/10/2013 của Ban Chấp hành Trung ương Đảng khóa XI nêu rõ quan điểm của Đảng ta về Chiến lược bảo vệ Tổ quốc trong tình hình mới như sau:\n- Giữ vững sự lãnh đạo trực tiếp, tuyệt đối về mọi mặt của Đảng đối với sự nghiệp bảo vệ Tổ quốc, xây dựng Đảng, Nhà nước và cả hệ thống chính trị trong sạch, vững mạnh. Nâng cao năng lực lãnh đạo và sức chiến đấu của Đảng, hiệu lực, hiệu quả quản lý của Nhà nước, không ngừng củng cố, tăng cường khối đại đoàn kết toàn dân tộc là yếu tố quyết định thắng lợi của sự nghiệp bảo vệ Tổ quốc.\n- Kiên định mục tiêu độc lập dân tộc gắn liền với chủ nghĩa xã hội. Giữ vững môi trường hòa bình, ổn định để phát triển kinh tế - xã hội là lợi ích cao nhất của đất nước; đồng thời luôn nêu cao cảnh giác làm thất bại mọi âm mưu, hoạt động chống phá, xâm lược của các thế lực thù địch; không để bị động, bất ngờ trong mọi tình huống.\n- Kết hợp chặt chẽ hai nhiệm vụ chiến lược xây dựng và bảo vệ Tổ quốc. Phát huy cao nhất sức mạnh của dân tộc kết hợp với sức mạnh thời đại. Phát huy mạnh mẽ nội lực là nhân tố quyết định; đồng thời tranh thủ tối đa mọi thuận lợi từ bên ngoài. Nắm chắc nhiệm vụ phát triển kinh tế là trung tâm, xây dựng Đảng là then chốt, văn hóa là nền tảng tinh thần của xã hội, củng cố quốc phòng, an ninh là nhiệm vụ trọng yếu, thường xuyên. Kết hợp chặt chẽ các nhiệm vụ phát triển kinh tế, xã hội với củng cố, tăng cường quốc phòng, an ninh, đối ngoại.\n- Xây dựng sức mạnh tổng hợp của đất nước về chính trị, tư tưởng, kinh tế, xã hội, văn hóa, quốc phòng, an ninh, đối ngoại. Phát huy sức mạnh của khối đại đoàn kết dân tộc, của cả hệ thống chính trị dưới sự lãnh đạo của Đảng, sự quản lý của Nhà nước, lực lượng vũ trang làm nòng cốt, tăng cường tiềm lực quốc phòng an ninh, xây dựng thế trận quốc phòng toàn dân, thế trận an ninh nhân dân vững mạnh, đáp ứng yêu cầu trong tình hình mới.\n- Quán triệt đường lối độc lập, tự chủ, đồng thời chủ động, tích cực hội nhập quốc tế. Kiên trì đường lối đối ngoại rộng mở, đa phương hóa, đa dạng hóa; thêm bạn, bớt thù, vừa hợp tác, vừa đấu tranh. Tăng cường hợp tác, tạo thế đan xen lợi ích chiến lược giữa nước ta với các nước, nhất là các nước lớn, các đối tác chiến lược, các nước láng giềng và các nước trong khu vực.\n- Vận dụng đúng đắn quan điểm về đối tác, đối tượng. Mặt khác, trong tình hình diễn biến nhanh chóng và phức tạp hiện nay, cần có cách nhìn biện chứng: trong mỗi đối tượng vẫn có thể có mặt cần tranh thủ, hợp tác; trong mỗi đối tác có thể có mặt mâu thuẫn với lợi ích của ta cần phải đấu tranh.\n- Nâng cao chất lượng công tác dự báo, nắm chắc tình hình; chủ động phòng ngừa, phát hiện sớm và triệt tiêu các nhân tố, nhất là những nhân tố bên trong có thể dẫn đến những đột biến, bất lợi."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 19. Chiến lược Quốc phòng Việt Nam là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 24 - NQ/TW Ngày 16/4/2018 của Bộ Chính trị nêu rõ Chiến lược Quốc phòng Việt Nam: \n- Là chiến lược phòng thủ quốc gia, bảo vệ đất nước, giữ nước từ sớm, từ xa, từ khi nước chưa nguy, sẵn sàng chống chiến tranh xâm lược.\n- Mang tính hoà bình tự vệ, bằng sức mạnh tổng hợp của toàn dân tộc kết hợp với sức mạnh thời đại.\n- Dựa trên nền tảng đường lối chính trị đúng đắn là nhân tố quyết định, sức mạnh quốc phòng là then chốt, sức mạnh quân sự là đặc trưng, trực tiếp là sức mạnh chiến đấu của lực lượng vũ trang, nòng cốt là Quân đội nhân dân.\n- Xây dựng, củng cố quan hệ, lòng tin chiến lược với các nước, nhất là các đối tác chiến lược, tạo thế để bảo vệ Tổ quốc. \n- Sẵn sàng đánh thắng mọi hình thái chiến tranh xâm lược nếu xảy ra."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 20. Mục tiêu trong Chiến lược Quốc phòng Việt Nam được xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 24 - NQ/TW Ngày 16/4/2018 của Bộ Chính trị về Chiến lược Quốc phòng Việt Nam, nêu rõ Mục tiêu chung là: \n- Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc. \n- Bảo vệ lợi ích quốc gia - dân tộc cả trong và ngoài lãnh thổ.\n- Bảo vệ nền hoà bình bền vững của đất nước.\n- Bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa.\n- Ngăn ngừa nguy cơ chiến tranh và xung đột vũ trang.\n- Đẩy mạnh hợp tác và đấu tranh quốc phòng phù hợp với luật pháp quốc tế; không để đất nước bị động, bất ngờ về chiến lược.\n- Xử lý thắng lợi các tình huống quốc phòng, sẵn sàng đánh thắng mọi hình thái chiến tranh xâm lược.\n- Tham gia bảo vệ hoà bình, ổn định trong khu vực và trên thế giới.\n- Giữ vững ổn định chính trị - xã hội, đấu tranh làm thất bại âm mưu, thủ đoạn “diễn biến hòa bình”, “bạo loạn lật đổ” của các thế lực thù địch, ngăn chặn có hiệu quả các biểu hiện “tự diễn biến”, “tự chuyển hóa” trong nội bộ."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 21. Quan điểm của Đảng ta về Chiến lược Quốc phòng Việt Nam được xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 24 - NQ/TW Ngày 16/4/2018 của Bộ Chính trị về Chiến lược Quốc phòng Việt Nam, trong đó nêu rõ quan điểm của Đảng ta là:\n- Nâng cao năng lực lãnh đạo, sức chiến đấu của Đảng, giữ vững sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt đối với sự nghiệp quốc phòng; tăng cường hiệu lực, hiệu quả quản lý của Nhà nước; củng cố, tăng cường khối đại đoàn kết toàn dân tộc, nền tảng chính trị, tinh thần, “thế trận lòng dân”, là nhân tố quyết định thắng lợi của sự nghiệp quốc phòng.\n- Bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa; giữ vững môi trường hòa bình, ổn định để xây dựng và phát triển đất nước. Bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ là nhiệm vụ trọng yếu, thường xuyên của Đảng, của cả hệ thống chính trị, là lợi ích cao nhất của quốc gia - dân tộc.\n- Kiên trì đường lối quốc phòng toàn dân, chiến tranh nhân dân gắn với xây dựng hệ thống chính trị từ Trung ương đến cơ sở vững mạnh; kiên quyết, kiên trì đấu tranh giải quyết mọi tranh chấp, bất đồng bằng biện pháp hòa bình trên cơ sở luật pháp quốc tế, cơ chế, quy tắc khu vực.\n- Giữ vững độc lập, tự chủ, tự lực, tự cường, dựa vào nội lực là chính; kết hợp chặt chẽ giữa quốc phòng với an ninh, đối ngoại, kinh tế, văn hóa, xã hội; phát triển kinh tế gắn với bảo vệ quốc phòng, an ninh; xây dựng sức mạnh tổng hợp của đất nước.\n- Chủ động, tích cực hội nhập quốc tế, tăng cường quan hệ hợp tác với các nước; mở rộng và đi vào chiều sâu các quan hệ về quốc phòng, tạo thuận lợi cho hội nhập trên các lĩnh vực khác; tranh thủ sự ủng hộ quốc tế thực hiện kế sách bảo vệ Tổ quốc từ sớm, từ xa, từ khi nước chưa nguy.\n- Quân đội nhân dân, Công an nhân dân là lực lượng nòng cốt, cùng với dân quân tự vệ và toàn dân bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa.\n- Thường xuyên nắm chắc tình hình, nhận diện, xử trí đúng đắn, kịp thời về đối tác, đối tượng quốc phòng; không để đất nước bị bất ngờ chiến lược."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 22. Chiến lược Quân sự Việt Nam là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Kết luận số 31 - NQ/TW Ngày 16/4/2018 của Bộ Chính trị về Chiến lược Quân sự Việt Nam. Trong đó, nêu rõ: \n- Là nghệ thuật sử dụng sức mạnh quân sự trong chiến tranh bảo vệ Tổ quốc; bộ phận chủ đạo của nghệ thuật quân sự; chỉ đạo nghệ thuật chiến dịch và chiến thuật; \n- Là tổng thể phương châm, chính sách và mưu lược được hoạch định trên nền tảng nền quốc phòng toàn dân, thế trận chiến tranh nhân dân gắn với thế trận an ninh nhân dân."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 23. Công tác đảng, công tác chính trị trong Chiến lược Quân sự Việt Nam bao gồm những nội dung cơ bản nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Công tác đảng, công tác chính trị trong Chiến lược quân sự Việt Nam, bao gồm các nội dung cơ bản sau:\n- Xây dựng Quân đội vững mạnh về chính trị, tư tưởng, tổ chức, trung thành vô hạn với Đảng, Tổ quốc, nhân dân, tuyệt đối tin tưởng vào sự lãnh đạo của Đảng, quản lý của Nhà nước; vững tin vào sự nghiệp đổi mới và con đường đi lên chủ nghĩa xã hội nước ta; nâng cao cảnh giác, thực hiện tốt công tác bảo vệ chính trị nội bộ; phòng, chống hiệu quả âm mưu “diễn biến hoà bình”, bạo loạn lật đổ của các thế lực thù địch; gắn bó mật thiết với dân, là niềm tin yêu của nhân dân.\n- Tăng cường xây dựng “thế trận lòng dân”, tạo nền tảng vững chắc cho nền quốc phòng toàn dân tiến hành chiến tranh chống kẻ thù xâm lược bảo vệ Tổ quốc. Sẵn sàng chiến đấu hy sinh vì độc lập, tự do của Tổ quốc, vì hạnh phúc của nhân dân.\n- Xây dựng tốt nhân tố chính trị tinh thần, chú trọng đội ngũ cán bộ các cấp; chủ động chuẩn bị chu đáo, đồng bộ, phối hợp, hiệp đồng chặt chẽ chỉ huy, bảo đảm trang, thiết bị, cơ sở vật chất, vũ khí đáp ứng yêu cầu, nhiệm vụ bảo vệ Tổ quốc."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 24. Chiến lược bảo vệ Tổ quốc trên không gian mạng là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 29 - NQ/TW ngày 25/7/2018 của Bộ Chính trị nêu rõ:\n- Là một bộ phận hợp thành Chiến lược bảo vệ Tổ quốc trong tình hình mới, làm cơ sở để Đảng lãnh đạo, Nhà nước quản lý, Chính phủ điều hành, các bộ, ban, ngành, đoàn thể triển khai thực hiện nhằm huy động sức mạnh tổng hợp của toàn Đảng, toàn dân và cả hệ thống chính trị, bảo vệ không gian mạng quốc gia an toàn, ổn định rộng khắp.\n- Bảo vệ chủ quyền, lợi ích quốc gia - dân tộc.\n- Bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa từ sớm, từ xa, trên tất cả các yếu tố cấu thành Tổ quốc (đất liền, biển đảo, trên không, vũ trụ và không gian mạng)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 25. Quan điểm của Đảng ta về mục tiêu bảo vệ Tổ quốc trên không gian mạng?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 29 - NQ/TW ngày 25/7/2018 của Bộ Chính trị nêu rõ mục tiêu bảo vệ Tổ quốc trên không gian mạng, là: \n- Phát huy sức mạnh tổng hợp toàn dân tộc trong xây dựng tiềm lực, lực lượng, thế trận quốc phòng toàn dân kết hợp với thế trận an ninh nhân dân trên không gian mạng vững chắc, rộng khắp.\n- Xác lập, bảo vệ vững chắc chủ quyền quốc gia trên không gian mạng, góp phần bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc và lợi ích quốc gia - dân tộc.\n- Giữ vững môi trường hoà bình, ổn định để xây dựng và phát triển đất nước."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 26. Quan điểm của Đảng ta về đối tượng tác chiến trên không gian mạng như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 29 - NQ/TW ngày 25/7/2018 của Bộ Chính trị được Đảng ta xác định đối tượng tác chiến trên không gian mạng, là:\n- Các thế lực thù địch, đồng minh và tay sai có âm mưu, hành động sử dụng không gian mạng can thiệp, xóa bỏ sự lãnh đạo của Đảng, lật đổ chế độ xã hội chủ nghĩa, tiến hành các hình thái chiến tranh. Đây là đối tượng cơ bản, lâu dài. \n- Các thế lực nước lớn và chư hầu có âm mưu, hành động sử dụng không gian mạng thực hiện tham vọng xâm phạm chủ quyền, lợi ích quốc gia - dân tộc. Đây là đối tượng trực tiếp, nguy hiểm, lâu dài. \n- Các tổ chức phản động trong và ngoài nước, lực lượng cơ hội, suy thoái chính trị, đạo đức, lối sống có âm mưu, hành động cấu kết với thế lực bên ngoài, sử dụng không gian mạng chống phá sự nghiệp xây dựng và bảo vệ Tổ quốc. Đây là đối tượng rất nguy hiểm. \n- Các tổ chức, cá nhân sử dụng không gian mạng thực hiện các hoạt động xâm nhập, phá hoại về kinh tế, chính trị, tư tưởng, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại và các hoạt động an ninh phi truyền thống khác.\n- Xâm phạm lợi ích quốc gia - dân tộc, quyền và lợi ích hợp pháp của các tổ chức, cá nhân. Đây là đối tượng phức tạp, đa dạng và thường xuyên."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 27. Các tình huống chiến lược có thể xảy ra trên không gian mạng được xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Các tình huống chiến lược có thể xảy ra trên không gian mạng có thể xảy ra độc lập, đồng thời, hoặc đan xen, biểu hiện là:\n- Sử dụng không gian mạng thực hiện “diễn biến hòa bình”, thúc đẩy “tự diễn biến”, “tự chuyển hóa”, kích động bạo loạn, “cách mạng màu”, “cách mạng đường phố”, kết hợp với can thiệp quân sự lật đổ chế độ xã hội chủ nghĩa ở Việt Nam.\n- Sử dụng không gian mạng thực hiện các tình huống an ninh phi truyền thống khác (đơn phương tiến công phá hoại về kinh tế, chính trị, tư tưởng, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại; đánh cắp thông tin bí mật nhà nước, bí mật quân sự; tội phạm mạng, khủng bố mạng...).\n- Tiến hành chiến tranh thông tin, chiến tranh không gian mạng.\n- Tiến hành các hoạt động trên không gian mạng kết hợp với các biện pháp phi vũ trang hoặc vũ trang xâm phạm chủ quyền, lợi ích quốc gia - dân tộc; \n- Khi có thời cơ tiến hành tác chiến không gian mạng kết hợp với các phương thức tác chiến trên các môi trường khác trong chiến tranh xâm chiếm biển, đảo, biên giới, chiến tranh xâm lược quy mô lớn."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 28. Quan điểm chỉ đạo của Đảng ta về bảo vệ Tổ quốc trên không gian mạng như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 29 - NQ/TW ngày 25/7/2018 của Bộ Chính trị nêu rõ quan điểm chỉ đạo của Đảng ta về bảo vệ Tổ quốc trên không gian mạng, là:\n Giữ vững sự lãnh đạo trực tiếp, tuyệt đối về mọi mặt của Đảng đối với sự nghiệp bảo vệ Tổ quốc trên không gian mạng, đồng thời xác định là một trong những nhiệm vụ trọng yếu, thường xuyên của toàn Đảng, toàn quân, toàn dân và cả hệ thống chính trị.\n- Việt Nam là một quốc gia có chủ quyền và lợi ích trên không gian mạng. Xác lập, quản lý và bảo vệ chủ quyền, lợi ích quốc gia - dân tộc trên không gian mạng, trên cơ sở pháp luật Việt Nam và tuân thủ luật pháp quốc tế. Luôn nêu cao cảnh giác, làm thất bại mọi âm mưu, hoạt động chống phá, xâm phạm chủ quyền, lợi ích quốc gia - dân tộc trên không gian mạng; không để bị động, bất ngờ trong mọi tình huống.\n Tổ chức bảo vệ Tổ quốc trên không gian mạng trong thế trận quốc phòng toàn dân, thế trận an ninh nhân dân và thế trận chiến tranh nhân dân. Kết hợp chặt chẽ nhiệm vụ bảo vệ Tổ quốc trên không gian mạng với nhiệm vụ xây dựng, phát triển không gian mạng an toàn, lành mạnh, rộng khắp tạo điều kiện thuận lợi để phát triển đất nước nhanh, bền vững.\n Độc lập, tự chủ, tự lực, tự cường, dựa vào sức mình chính là nhân tố quyết định, phát huy mạnh mẽ nhân tố con người; đồng thời chủ động, tích cực hội nhập quốc tế, tăng cường và mở rộng hợp tác quốc tế trên không gian mạng. Vận dụng đúng đắn, sáng tạo quan điểm về đối tác, đối tượng trên không gian mạng; nâng cao chất lượng công tác nghiên cứu, dự báo tình hình, chủ động phòng ngừa, ngăn chặn, thực hiện bảo vệ Tổ quốc từ sớm, từ xa trên tất cả các môi trường chiến lược."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 29. Thế nào là biên giới quốc gia và bảo vệ biên giới quốc gia?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 33 - NQ/TW, ngày 28/9/2018 của Bộ Chính trị về Chiến lược bảo vệ biên giới quốc gia, nêu rõ: \n- Biên giới quốc gia là thiêng liêng, bất khả xâm phạm; được xây dựng, quản lý và bảo vệ vững chắc cả thời bình và thời chiến. \n- Bảo vệ biên giới quốc gia là tổng thể các biện pháp nhằm bảo vệ chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc; bảo vệ tính uy nghiêm, biểu tượng quốc gia ở biên giới, cửa khẩu; bảo vệ Đảng, Nhà nước, nhân dân, lợi ích quốc gia - dân tộc, tài nguyên, môi trường sinh thái, an ninh chính trị, trật tự, an toàn xã hội và phòng thủ vững chắc khu vực biên giới."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 30. Mục tiêu bảo vệ biên giới quốc gia là như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 33 - NQ/TW, ngày 28/9/2018 của Bộ Chính trị về Chiến lược bảo vệ biên giới quốc gia nêu rõ mục tiêu là: \n- Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, biên giới quốc gia.\n- Bảo vệ Đảng, Nhà nước, nhân dân, chế độ xã hội chủ nghĩa.\n- Bảo vệ sự nghiệp đổi mới, công nghiệp hoá, hiện đại hoá và hội nhập quốc tế.\n- Bảo vệ lợi ích quốc gia, dân tộc.\n- Bảo vệ hòa bình, an ninh, văn hoá, pháp luật, tính uy nghiêm và biểu tượng quốc gia tại biên giới, cửa khẩu. \n- Xây dựng biên giới quốc gia hòa bình, hữu nghị, ổn định, hợp tác.\n- Bảo vệ, phòng thủ vững chắc biên giới quốc gia.\n- Góp phần phát triển kinh tế - xã hội gắn với củng cố, tăng cường quốc phòng, an ninh, đối ngoại ở khu vực biên giới và cả nước."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 31. Quan điểm của Đảng ta về Chiến lược bảo vệ biên giới quốc gia là như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 33 - NQ/TW, ngày 28/9/2018 của Bộ Chính trị nêu rõ quan điểm của Đảng ta về Chiến lược bảo vệ biên giới quốc gia, là:\n- Giữ vững và tăng cường sự lãnh đạo của Đảng, nâng cao hiệu lực, hiệu quả quản lý của Nhà nước; củng cố, tăng cường khối đại đoàn kết toàn dân tộc, xây dựng “thế trận lòng dân” vững chắc là nhân tố quyết định thắng lợi của sự nghiệp bảo vệ biên giới quốc gia.\n- Quản lý, bảo vệ biên giới quốc gia là nhiệm vụ trọng yếu, thường xuyên của toàn Đảng, toàn dân, toàn quân, của cả hệ thống chính trị và cả nước; dựa vào dân, lấy dân làm gốc, nhân dân là chủ thể, “mỗi người dân biên giới là một cột mốc sống”; lực lượng vũ trang nhân dân làm nòng cốt; Bộ đội Biên phòng là lực lượng chuyên trách, lực lượng chiến đấu đầu tiên, bám trụ đến cùng để bảo vệ và giữ vững biên giới quốc gia.\n- Quản lý, bảo vệ biên giới quốc gia đặt trong tổng thể hai nhiệm vụ chiến lược xây dựng và bảo vệ Tổ quốc. Kết hợp chặt chẽ giữa xây dựng, quản lý với bảo vệ biên giới quốc gia, lấy xây dựng là trung tâm, quản lý, bảo vệ là trọng yếu, thường xuyên. Phát triển kinh tế - xã hội gắn với củng cố, tăng cường quốc phòng, an ninh, đối ngoại, phát huy sức mạnh tổng hợp để quản lý, bảo vệ và phòng thủ vững chắc biên giới quốc gia.\n- Kiên quyết, kiên trì đấu tranh bảo vệ vững chắc chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc ở khu vực biên giới. Giải quyết mọi bất đồng, tranh chấp chủ quyền, lãnh thổ bằng biện pháp hoà bình trên cơ sở luật pháp, thông lệ quốc tế; “vừa hợp tác, vừa đấu tranh” và sẵn sàng kết hợp các biện pháp, hình thức khác làm thất bại mọi âm mưu, thủ đoạn và hoạt động xâm phạm, xâm chiếm biên giới quốc gia.\n- Phát huy sức mạnh toàn dân tộc kết hợp với sức mạnh thời đại, dựa vào nội lực là chính, kết hợp với tăng cường, mở rộng hợp tác quốc tế, xây dựng, quản lý, bảo vệ biên giới quốc gia hoà bình, ổn định, hữu nghị, hợp tác, phát triển, văn minh, hiện đại; phòng thủ vững chắc biên giới quốc gia."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 32. Mục tiêu xây dựng các tỉnh, thành phố trực thuộc Trung ương, thành khu vực phòng thủ vững chắc trong tình hình mới được Đảng ta xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 28 - NQ/TW, ngày 22/9/2008 của Bộ Chính trị nêu rõ mục tiêu xây dựng các tỉnh, thành phố trực thuộc Trung ương, thành khu vực phòng thủ vững chắc trong tình hình mới, là: \n- Xây dựng khu vực phòng thủ có tiềm lực và sức mạnh toàn diện, nhằm ngăn ngừa, làm thất bại âm mưu và hoạt động “diễn biến hòa bình”, gây bạo loạn, lật đổ của các thế lực thù địch.\n- Giữ vững ổn định chính trị, môi trường hòa bình để phát triển kinh tế - xã hội, đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước.\n- Xử lý hiệu quả các tình huống về quốc phòng, an ninh.\n- Giữ vững chủ quyền biển, đảo, sẵn sàng đánh thắng chiến tranh xâm lược, bảo vệ vững chắc từng địa phương trong mọi tình huống, góp phần bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 33. Quan điểm của Đảng ta về việc xây dựng các tỉnh, thành phố trực thuộc Trung ương, thành khu vực phòng thủ vững chắc trong tình hình mới được xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 28 - NQ/TW, ngày 22/9/2008 của Bộ Chính trị nêu quan điểm của Đảng ta về việc xây dựng các tỉnh, thành phố trực thuộc Trung ương, thành khu vực phòng thủ vững chắc trong tình hình mới, là:\n- Khu vực phòng thủ tỉnh, thành phố trực thuộc Trung ương là bộ phận hợp thành hệ thống phòng thủ chung của quân khu và cả nước giữ vị trí chiến lược quan trọng trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.\n- Xây dựng và tổ chức hoạt động của khu vực phòng thủ bằng sức mạnh tổng hợp, toàn dân tham gia, các lực lượng vũ trang địa phương làm nòng cốt. Phát huy sức mạnh tại chỗ để chủ động, đủ sức tự xử lý thắng lợi các tình huống về quốc phòng, an ninh xảy ra trên địa bàn; thực hiện xã giữ xã, huyện giữ huyện, tỉnh giữ tỉnh. Quá trình xây dựng khu vực phòng thủ phải gắn phòng, chống có hiệu quả âm mưu “diễn biến hòa bình”, gây bạo loạn, lật đổ của các thế lực thù địch, tạo sức mạnh bên trong để ngăn ngừa và đánh thắng chiến tranh xâm lược.\n- Khu vực phòng thủ được xây dựng vững mạnh toàn diện, cả về tiềm lực, lực lượng và thế trận trên các mặt chính trị, tư tưởng, kinh tế, văn hóa, xã hội, quốc phòng, an ninh và đối ngoại. Trong đó, nhiệm vụ phát triển kinh tế xã hội là trung tâm, xây dựng Đảng là then chốt, xây dựng, củng cố quốc phòng - an ninh là nhiệm vụ trọng yếu, thường xuyên; lấy xây dựng “thế trận lòng dân” vững chắc, xây dựng xã, phường, thị trấn vững mạnh toàn diện làm nền tảng, gắn bó chặt chẽ liên hoàn với các thành phần thế trận của khu vực phòng thủ cấp huyện và cấp tỉnh.\n- Xây dựng và hoạt động của khu vực phòng thủ đặt dưới sự lãnh đạo tập trung thống nhất của tỉnh ủy, thành ủy, sự quản lý, điều hành của chính quyền; cơ quan quân sự phối hợp với cơ quan công an và các ban, ngành, đoàn thể ở địa phương làm tham mưu và tổ chức thực hiện."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 34. Nhiệm vụ xây dựng các tỉnh, thành phố trực thuộc Trung ương, thành khu vực phòng thủ vững chắc trong tình hình mới là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết số 28-NQ/TW, ngày 22/9/2008 của Bộ Chính trị nêu nhiệm vụ xây dựng các tỉnh, thành phố trực thuộc Trung ương, thành khu vực phòng thủ vững chắc trong tình hình mới, là:\n- Tập trung xây dựng tiềm lực về chính trị, tư tưởng, kinh tế, văn hóa, xã hội, dân sinh, khoa học - công nghệ, quốc phòng, an ninh và đối ngoại của khu vực phòng thủ; xây dựng thế trận quốc phòng toàn dân gắn với thế trận an ninh nhân dân vững chắc trên từng hướng.\n- Chủ động nắm tình hình, phát hiện, ngăn chặn, đấu tranh làm thất bại mọi âm mưu và hoạt động “diễn biến hòa bình”, gây bạo loạn, lật đổ và các thủ đoạn chống phá của các thế lực thù địch, giữ vững ổn định chính trị xã hội, tạo môi trường thuận lợi để phát triển kinh tế - xã hội.\n- Tổ chức phòng thủ dân sự, phối hợp chặt chẽ các lực lượng để phòng, chống kịp thời có hiệu quả thiên tai, thảm họa, dịch bệnh...\n- Chuẩn bị chu đáo mọi mặt, sẵn sàng thực hiện các trạng thái quốc phòng và động viên chiến tranh khi có lệnh; kịp thời chuyển thành thế trận chiến tranh nhân dân khi có chiến tranh; phòng tránh, đánh trả tiến công hỏa lực của địch nhằm bảo toàn lực lượng, đáp ứng yêu cầu chiến đấu và phục vụ chiến đấu lâu dài của khu vực phòng thủ.\n- Nắm chắc tình hình, thực hiện các biện pháp để giữ vững an ninh chính trị và trật tự an toàn xã hội, chiến đấu bảo vệ địa phương, tạo thế và lực cho hoạt động tác chiến của bộ đội chủ lực trên địa bàn.\n- Sẵn sàng chi viện sức người, sức của cho các địa phương khác khi có yêu cầu."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 35. Đối tượng của cách mạng Việt Nam hiện nay được Đảng ta xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đối tượng của cách mạng Việt Nam hiện nay là những thế lực có âm mưu và hành động chống phá mục tiêu của nước ta trong sự nghiệp xây dựng và bảo vệ Tổ quốc. Đó là âm mưu, hành động gây chiến tranh xâm lược; “diễn biến hòa bình”, bạo loạn lật đổ chế độ; xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, lợi ích quốc gia, dân tộc bằng phương thức vũ trang hoặc phi vũ trang, cả từ bên ngoài và bên trong. \nCó ba dạng đối tượng sau đây: \nMột là, đối tượng đối lập về ý thức hệ có âm mưu và hành động tập trung xóa bỏ chủ nghĩa xã hội ở nước ta là chủ nghĩa đế quốc và các thế lực thù địch. Chúng dùng nhiều thủ đoạn, biện pháp thâm độc hòng xóa bỏ vai trò lãnh đạo của Đảng Cộng sản Việt Nam, xóa bỏ chế độ xã hội chủ nghĩa ở nước ta. Bằng chiến lược “diễn biến hòa bình”, bạo loạn lật đổ kết hợp với nhiều loại hình can thiệp khác (kể cả can thiệp vũ trang), ta luôn cảnh giác phòng, chống. \nHai là, đối tượng vì lợi ích dân tộc hẹp hòi, có ý đồ tranh đoạt chủ quyền lãnh thổ nước ta. Đây là đối tượng có thể tương đồng về ý thức hệ, cùng thống nhất con đường đi lên chủ nghĩa xã hội, cùng đấu tranh để bảo vệ sự tồn tại của chủ nghĩa xã hội, nhưng vì lợi ích dân tộc hẹp hòi, đã có biểu hiện xâm phạm chủ quyền, quyền chủ quyền lãnh thổ của nước ta, ở cấp độ cao hơn có thể dẫn đến xung động vũ trang và chiến tranh. \nBa là, đối tượng có thể bị các nước lớn thao túng, có âm mưu và hành động chống phá ta. Đây là một số nước vốn có quan hệ hữu nghị truyền thống với Việt Nam nhưng có thể bị các nước lớn thao túng về lợi ích. Trong điều kiện bình thường họ là những đối tác tốt, tương đồng về lợi ích, tuy có thể còn có một số khác biệt về chế độ chính trị, về lợi ích đối ngoại… Nhưng trong những điều kiện phức tạp, họ có thể bị lôi kéo, thao túng, can thiệp, chống lại ta."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 36. Đối tác của cách mạng Việt Nam hiện nay được Đảng ta xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đối tác của cách mạng Việt Nam hiện nay là những ai tôn trọng độc lập, chủ quyền, thiết lập và mở rộng quan hệ hữu nghị, hợp tác bình đẳng, cùng có lợi với Việt Nam. Việt Nam là bạn, là đối tác tin cậy, thành viên có trách nhiệm trong cộng đồng quốc tế vì hòa bình, hợp tác và phát triển.\nHiện nay, trong quan hệ đối ngoại có thể phân loại một số đối tác theo mức độ quan hệ như: đối tác truyền thống, đối tác tin cậy, đối tác toàn diện, đối tác chiến lược toàn diện...\nĐối tác truyền thống, tin cậy là những nước ít có khả năng bị lôi kéo chống phá ta; đối tác cảnh giác, đề phòng là nước có thể chuyển thành đối tượng; đối tác đồng thời là đối tượng là những nước tuy hợp tác với ta nhưng đang có âm mưu và hành động chống phá ta. \nĐối tác chiến lược chỉ một mối quan hệ hợp tác quan trọng vừa hướng vào mục tiêu cụ thể, vừa có mong muốn quan hệ lâu dài. Đặc điểm của quan hệ đối tác chiến lược là không có giới hạn về không gian, thời gian; không hạn chế về đối tượng áp dụng, lĩnh vực hợp tác và không nhất thiết phải mang nội dung an ninh quốc phòng."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 37. Các cấp độ quan hệ đối tác chiến lược của cách mạng Việt Nam hiện nay được xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Cấp độ cao nhất là đối tác chiến lược toàn diện, hay còn gọi là đối tác hợp tác chiến lược toàn diện, tức là hai bên xác định gắn bó lợi ích lâu dài, hỗ trợ lẫn nhau và thúc đẩy sự hợp tác sâu rộng và toàn diện trên tất cả các lĩnh vực mà các bên cùng có lợi. Đồng thời, hai bên cùng xây dựng sự tin cậy lẫn nhau ở cấp chiến lược. \n- Cấp độ thấp hơn là đối tác chiến lược trong một lĩnh vực cụ thể.\n- Mức độ thấp hơn nữa là đối tác toàn diện. Ở cấp độ này, thông thường quan hệ giữa các chủ thể đã có một hoặc một vài mặt nào đó đạt đến mức chiến lược, nhưng chưa có sự đồng đều giữa các mặt hợp tác. Do sự tin cậy lẫn nhau chưa đủ hoặc thời điểm chưa chín muồi, nên các chủ thể chọn cách xây dựng một khuôn khổ đối tác toàn diện với hàm ý nhấn mạnh mặt hợp tác, tiếp tục củng cố lòng tin và cùng hướng tới tương lai. \nNgoài ra, đối tác chiến lược còn có giao lưu, hợp tác ở nhiều cấp, ngành, địa phương… Mục tiêu của đối tác chiến lược là hướng tới các lợi ích quốc gia dân tộc cơ bản, lâu dài giữa các bên. Quan hệ đối tác chiến lược có tính linh hoạt, không phải là bất biến, phát triển và thay đổi tùy vào từng đối tác, thời điểm, lĩnh vực và cách vận dụng của từng chủ thể. \nVề hình thức: Đối tác chiến lược có thể diễn ra linh hoạt (chính thức hoặc không chính thức, song phương hoặc đa phương, lĩnh vực và mức độ tham gia rộng hoặc hẹp, nhiều hoặc ít, nông hoặc sâu…) và có tính mở."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 38. Việt Nam thiết lập quan hệ ngoại giao với bao nhiêu quốc gia trên thế giới và mức độ quan hệ thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Hiện nay, nước ta có quan hệ ngoại giao với 189/193 quốc gia thành viên của Liên Hợp quốc; quan hệ kinh tế thương mại với hơn 230 quốc gia và vùng lãnh thổ; tham gia trên 70 tổ chức quốc tế, khu vực trên tinh thần là bạn, là đối tác tin cậy, là thành viên có trách nhiệm của cộng đồng quốc tế. Đến tháng 5/2018 chỉ còn 4 quốc gia Việt Nam chưa thiết lập quan hệ ngoại giao chính thức là Bahamas (châu Mỹ); Tonga, Tavalu (châu Đại Dương); MalaWi (châu Phi) Chúng ta đã có 98 cơ quan đại diện tại các quốc gia và vùng lãnh thổ ở khắp 5 châu lục. \nTrong khi tiếp tục củng cố, phát triển quan hệ hữu nghị truyền thống, đoàn kết đặc biệt, hợp tác toàn diện với Lào; quan hệ hữu nghị truyền thống, hợp tác toàn diện với Campuchia; quan hệ hữu nghị truyền thống, hợp tác nhiều mặt với Cu Ba, đến tháng 5/2018 Việt Nam đã thiết lập: \n- Quan hệ đối tác chiến lược toàn diện với 03 quốc gia (Cộng hòa Liên bang Nga và Cộng hòa Nhân dân Trung Hoa và Cộng hòa Ấn Độ).\n- Quan hệ đối tác chiến lược với 13 quốc gia (Nhật Bản; Hàn Quốc; Vương quốc Tây Ban Nha; Vương quốc Anh; Cộng hòa Liên bang Đức; Cộng hòa Italia; Cộng hòa Inđônêxia; Vương quốc Thái Lan; Cộng hòa Xingapo; Cộng hòa Pháp; Malaixia; Philippin; Australia).\n- Quan hệ đối tác toàn diện với 15 quốc gia (Cộng hòa Nam Phi; Cộng hòa Chilê; Cộng hoà Liên bang Braxin; Cộng hòa Vênêduêla; Niudilân; Cộng hoà Áchentina; Vương quốc Hà Lan; Ukraina; Hợp chủng quốc Hoa Kỳ; Vương Quốc Đan Mạch; Myanmar; Canada; Triều Tiên; Hungary; Brunaay)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 39. Đối tượng tác chiến của Quân đội ta hiện nay là ai?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đối tượng tác chiến của Quân đội ta hiện nay là:\n- Bất cứ lực lượng nào chống phá mục tiêu của cách mạng nước ta; \n- Tiến hành chiến tranh xâm lược; “diễn biến hòa bình”, bạo loạn lật đổ, bạo loạn vũ trang ở nước ta; \n- Xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, lợi ích quốc gia, dân tộc của Việt Nam."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 40. Các nhóm đối tượng tác chiến của Quân đội ta hiện nay được hiểu như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nhóm thứ nhất: Bất cứ thế lực nào có âm mưu và hành động tiến hành chiến tranh xâm lược nước ta dưới bất kỳ hình thức nào. \nDấu hiệu nhận biết là đối tượng có các hành động chuẩn bị và tiến hành chiến tranh dưới mọi hình thức, xúc tiến liên minh, liên kết tập hợp lực lượng tiến công ta bằng vũ lực.\nNhóm thứ hai: Bất cứ thế lực nào có âm mưu và hành động thực hiện “diễn biến hoà bình”, gây bạo loạn lật đổ, bạo loạn vũ trang ở nước ta. \nDấu hiệu nhận biết là chúng sử dụng đòn tiến công chính bằng “diễn biến hòa bình”, thực hiện “phi chính trị hóa” quân đội, thúc đẩy “tự diễn biến”, “tự chuyển hóa” nội bộ để thay đổi chế độ ta. Khi có điều kiện, thời cơ, nhất là lợi dụng lúc ta có sơ hở trong xử lý các tình huống chiến lược, chúng sẽ kích động gây bạo loạn lật đổ, xung đột vũ trang hoặc chiến tranh với các dạng thức mới như: chiến tranh ủy nhiệm, chiến tranh thông tin, chiến tranh mạng.\nNhóm thứ ba: Bất cứ thế lực nào có âm mưu và hành động xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam, xâm phạm lợi ích quốc gia, dân tộc bằng phương thức vũ trang và phi vũ trang, kể cả từ bên trong và bên ngoài. \nDấu hiệu nhận biết là đối tượng thực hiện ý đồ tranh đoạt chủ quyền lãnh thổ của Việt Nam bằng các hoạt động xâm lấn biên giới, biển, đảo thuộc chủ quyền lãnh thổ của ta. Họ tìm mọi cách kiềm chế, chi phối chính sách đối nội, đối ngoại, buộc ta phải nhượng bộ về chủ quyền, lợi ích quốc gia. Khi có thời cơ, có thể gây xung đột vũ trang, chiến tranh chiếm giữ lãnh thổ, chiếm đoạt tài nguyên của nước ta."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 41. Ba khâu đột phá được Đại hội Đảng bộ Quân đội lần thứ X xác định là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết Đại hội Đảng bộ Quân đội lần thứ X chỉ rõ ba khâu đột phá trong Đảng bộ Quân đội đó là:\n- Đột phá về tổ chức, biên chế.\n- Đột phá về huấn luyện và đào tạo.\n- Đột phá về thực hiện chính quy, chấp hành kỷ luật, pháp luật của bộ đội và cải cách hành chính quân sự."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 42. Nội dung, tiêu chuẩn xây dựng đơn vị vững mạnh về chính trị ở các cơ quan, đơn vị hiện nay được xác định như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ngày 16/6/2010, Tổng cục Chính trị Quân đội nhân dân Việt Nam có hướng dẫn số 824/HD-CT về tiếp tục thực hiện Chỉ thị số 917/1999/CT-BQP của Bộ trưởng Bộ Quốc phòng về xây dựng đơn vị vững mạnh toàn diện trong toàn quân. Trong đó nêu rõ nội dung chỉ tiêu xây dựng đơn vị vững mạnh về chính trị, bao gồm:\n- Về Chính trị tư tưởng: Đơn vị có bản lĩnh chính trị vững vàng, kiên định chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh; tin tưởng tuyệt đối vào sự lãnh đạo của Đảng, phẩm chất đạo đức, lối sống tốt, không để xảy ra vụ việc nghiêm trọng, tỷ lệ vi phạm kỷ luật thông thường phải xử lý không quá 0,3%; chấp hành nghiêm quy chế giáo dục chính trị, kiểm tra nhận thức 100% đạt yêu cầu, có 70% khá giỏi trở lên; công tác thông tin tuyên truyền có nền nếp, thực hiện tốt các cuộc vận động, các phong trào thi đua, xây dựng môi trường văn hóa tốt.\n- Xây dựng tổ chức đảng, cấp ủy TSVM, cơ quan chính trị VMTD, có 100% cấp ủy viên cấp mình hoàn thành nhiệm vụ, 80% trở lên hoàn thành tốt và xuất sắc nhiệm vụ; có từ 80% trở lên cấp ủy cấp dưới hoàn thành tốt nhiệm vụ, số cấp ủy viên yếu kém không quá 10%. Tổ chức cơ sở đảng có 95% đảng viên trở lên đủ tư cách trong đó có từ 80% trở lên đảng viên hoàn thành tốt và xuất sắc nhiệm vụ không có cấp ủy viên, cán bộ chủ trì cùng cấp bị xử lý kỷ luật; đảng bộ phải có 80% tổ chức đảng cấp dưới hoàn thành tốt nhiệm vụ, không có tổ chức đảng yếu kém.\n- Xây dựng đội ngũ cán bộ có số lượng, cơ cấu hợp lý, có phẩm chất, năng lực tốt đáp ứng yêu cầu nhiệm vụ, cán bộ các cấp hoàn thành nhiệm vụ, có 70% hoàn thành mức khá trở lên.\n- Xây dựng các tổ chức quần chúng và hội đồng quân nhân vững mạnh, có 80% tổ chức đoàn, 95% tổ chức hội phụ nữ, 95% tổ chức công đoàn đạt vững mạnh; 90%  trở lên đoàn viên đạt khá và xuất sắc; 90%  trở lên cán bộ, hội viên, hội phụ nữ đạt 3 tiêu chuẩn của phong trào, 85 đoàn viên công đoàn đạt tiên tiến.\n- Đơn vị làm tốt công tác dân vận, tuyên truyền đặc biệt, thực hiện tốt công tác bảo vệ an ninh. Thực hiện đúng chính sách đối với Quân đội và hậu phương Quân đội, 100% đơn vị tuyệt đối an toàn về chính trị.\n- Thực hiện có hiệu quả hoạt động CTĐ, CTCT trong các nhiệm vụ; chấp hành nghiêm chế độ, nền nếp CTĐ, CTCT.\nPhần thứ hai\nHỌC TẬP, LÀM THEO TƯ TƯỞNG, ĐẠO ĐỨC, PHONG CÁCH  HỒ CHÍ MINH, XỨNG DANH “BỘ ĐỘI CỤ HỒ” TRONG THỜI KỲ MỚI"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 43. Tư tưởng Hồ Chí Minh là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta.\n- Là sự kế thừa và phát triển các giá trị truyền thống tốt đẹp của dân tộc, tiếp thu tinh hoa văn hoá nhân loại.\n- Là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam.\n- Là tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta, mãi mãi soi đường cho sự nghiệp cách mạng của nhân dân ta giành thắng lợi."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 44. Những nội dung cơ bản của Tư tưởng Hồ Chí Minh là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Những nội dung cơ bản của Tư tưởng Hồ Chí Minh bao gồm:\n- Giải phóng dân tộc, giải phóng giai cấp, giải phóng con người. \n- Độc lập dân tộc gắn liền với chủ nghĩa xã hội, kết hợp sức mạnh dân tộc với sức mạnh thời đại. \n- Sức mạnh của nhân dân, của khối đại đoàn kết dân tộc. \n- Quyền làm chủ của nhân dân, xây dựng Nhà nước thật sự của dân, do dân, vì dân. \n- Quốc phòng toàn dân, xây dựng lực lượng vũ trang nhân dân. \n- Phát triển kinh tế và văn hoá, không ngừng nâng cao đời sống vật chất và tinh thần của nhân dân. \n- Đạo đức cách mạng, cần, kiệm, liêm, chính, chí công vô tư. \n- Chăm lo bồi dưỡng thế hệ cách mạng cho đời sau. \n- Xây dựng Đảng trong sạch, vững mạnh, cán bộ, đảng viên vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của nhân dân…"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 45. Đạo đức cách mạng và đạo đức Hồ Chí Minh là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Đạo đức cách mạng là chuẩn mực đạo đức, mang bản chất giai cấp công nhân, dựa trên nền tảng của chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh, kế thừa và phát triển truyền thống đạo đức tốt đẹp của dân tộc, tiếp thu tinh hoa đạo đức nhân loại. \n- Đạo đức Hồ Chí Minh là đạo đức của một người cộng sản mẫu mực, kiên định trên lập trường, quan điểm của chủ nghĩa Mác-Lênin, kết hợp giữa chủ nghĩa yêu nước của dân tộc Việt Nam với chủ nghĩa quốc tế chân chính của giai cấp công nhân cách mạng. Đó là đạo đức của người chiến sĩ suốt đời đấu tranh, dâng hiến cả cuộc đời và sự nghiệp của mình cho lý tưởng và mục tiêu giải phóng dân tộc, giải phóng giai cấp công nhân, giải phóng xã hội và giải phóng con người."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 46. Những biểu hiện đạo đức cách mạng của quân nhân theo tư tưởng Hồ Chí Minh?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đạo đức cách mạng của quân nhân theo tư tưởng Hồ Chí Minh có những biểu hiện cơ bản như sau:\n- Tuyệt đối trung thành với Tổ quốc, với Đảng, Nhà nước và nhân dân. \n- Yêu thương con người, yêu thương đồng chí, đồng đội.\n- Có đức hy sinh, lòng dũng cảm, lối sống trong sạch, lành mạnh, kỷ luật tự giác, nghiêm minh, đấu tranh chống biểu hiện của chủ nghĩa cá nhân và hành vi phi đạo đức.\n- Thực hành cần, kiệm, liêm, chính, chí công vô tư.\n- Có tinh thần quốc tế trong sáng.\nNgoài những phẩm chất nêu trên, đối với người cán bộ, sĩ quan trong Quân đội cần quán triệt, học tập, rèn luyện đạo đức cách mạng theo tư tưởng của Hồ Chí Minh về tư cách của một vị tướng là: “Trí, Dũng, Nhân, Tín, Liêm, Trung”. Mỗi quân nhân phải ra sức học tập, rèn luyện theo các chuẩn mực trên để đáp ứng yêu cầu nhiệm vụ xây dựng Quân đội, bảo vệ Tổ quốc trong thời kỳ mới."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 47. Những nội dung cơ bản về phong cách Hồ Chí Minh?"
+            },
+            {
+                "role": "assistant",
+                "content": "Phong cách Hồ Chí Minh là tài sản quý giá của dân tộc và nhân loại, biểu hiện trong hoạt động sống hằng ngày của Người, như: phong cách tư duy, phong cách làm việc, phong cách ứng xử, phong cách sinh hoạt. Trong hệ thống phong cách Hồ Chí Minh, phong cách tư duy giữ vị trí đặc biệt quan trọng, chi phối các phong cách khác.\n- Phong cách tư duy: Là những nguyên tắc, lề lối tương đối ổn định, có tính cách mạng, khoa học và mang màu sắc riêng trong cách nghĩ của Bác được thể hiện ở các luận điểm, quan điểm, tư tưởng, lề lối làm việc và hành động thực tiễn của Người, có giá trị to lớn đối với cách mạng Việt Nam.\n- Phong cách làm việc: Là lề lối, cung cách, cách thức làm việc có tính khoa học, mang đặc trưng riêng của Hồ Chí Minh, được thể hiện chủ yếu trong hoạt động lãnh đạo, quản lý của Người nhằm thực hiện mục tiêu, nhiệm vụ của cách mạng.\n- Phong cách ứng xử: Là những nền nếp có tính hệ thống, ổn định tạo thành đặc trưng riêng của Người trong giao tiếp và xử lý các mối quan hệ đối với bản thân mình, đối với công việc và đối với người khác nhằm hiện thực hóa mục tiêu độc lập dân tộc gắn liền với chủ nghĩa xã hội ở Việt Nam và trở thành một giá trị quan trọng của di sản Hồ Chí Minh.\n- Phong cách diễn đạt: Là tổng hợp những phương pháp, thủ pháp, biện pháp, cách thức riêng, tiêu biểu, ổn định của Người được diễn đạt (qua nói và viết) để truyền tải tới đối tượng xác định nhằm hướng vào độc lập dân tộc, mang lại hạnh phúc cho nhân dân. \n- Phong cách sống thanh cao, trong sạch, giản dị: Là những phẩm chất, chuẩn mực có trong con người Hồ Chí Minh; gồm: sự giản dị, thanh đạm, thanh cao trong sinh hoạt hằng ngày; là cách sống chừng mực, điều độ, ngăn nắp, yêu lao động, rất quý trọng thời gian, chẳng có ham muốn danh lợi riêng cho mình; tình thương yêu con người hòa quyện với tình yêu thiên nhiên tạo nên tinh thần lạc quan của người cách mạng, kết hợp chặt chẽ với những rung động say mê của một tâm hồn nghệ sĩ. \n- Phong cách quần chúng: Là những suy nghĩ, hành động, việc làm thể hiện sự sâu sát, gần gũi quần chúng, lắng nghe ý kiến quần chúng, luôn vì lợi ích quần chúng, biết học hỏi kinh nghiệm của quần chúng và tổ chức tuyên truyền, vận động quần chúng, \"biến quyết tâm của Đảng và Chính phủ thành quyết tâm của quần chúng\" nhằm thực hiện thắng lợi sự nghiệp cách mạng; phong cách quần chúng là nội dung đặc sắc trong phong cách làm việc và được biểu hiện cụ thể, sâu sắc trong thực tiễn hoạt động cách mạng của Người.\n- Phong cách dân chủ: Là hành động, việc làm thể hiện sự tôn trọng tập thể, phát huy sức mạnh tập thể, tranh thủ ý kiến sáng tạo của nhiều người để bàn bạc dân chủ, làm cho tư tưởng thông suốt, không áp đặt, độc đoán, chuyên quyền. Mọi người có quyền tham gia, bàn bạc vào công việc chung, được tôn trọng quyền lợi của từng thành viên trong xã hội. \n- Phong cách tự mình nêu gương: Là những hoạt động, lề lối làm việc của Hồ Chí Minh thể hiện tính tiền phong, gương mẫu, có chất lượng hiệu quả cao, để người khác noi theo; việc tự nêu gương được thể hiện từ việc nhỏ đến lớn, thường xuyên liên tục về mọi mặt; nói đi đôi với làm; cần, kiệm, liêm, chính, chí công vô tư; bất cứ công việc gì, dù khó khăn đến đâu cũng gương mẫu, tự mình làm gương trước."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 48. Phẩm chất “Bộ đội Cụ Hồ” là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Là hệ thống những giá trị cao đẹp của quân nhân và tập thể quân nhân trong Quân đội nhân dân Việt Nam.\n- Được hình thành trên cơ sở quán triệt sâu sắc những quan điểm của chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, đường lối, chủ trương của Đảng và Nhà nước ta về xây dựng quân đội cách mạng.\n- Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh.\n- Kế thừa và phát huy truyền thống tốt đẹp của dân tộc, truyền thống cách mạng vẻ vang của Đảng, của quân đội.\n- Thể hiện bản chất giai cấp công nhân, tính nhân dân, tính dân tộc của Quân đội ta."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 49. Những đặc trưng cơ bản về phẩm chất “Bộ đội Cụ Hồ”?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Tận trung với nước, với Đảng, với chế độ xã hội chủ nghĩa, sẵn sàng chiến đấu, hy sinh vì độc lập, tự do của Tổ quốc, vì chủ nghĩa xã hội, vì hạnh phúc của nhân dân.\n-  Hiếu với dân, một lòng, một dạ phục vụ nhân dân, vì nhân dân quên mình.\n- Có tinh thần quyết chiến, quyết thắng, độc lập tự chủ, tự lực, tự cường, dũng cảm, mưu trí, sáng tạo, chủ động khắc phục khó khăn, gian khổ để hoàn thành tốt mọi nhiệm vụ.\n- Thực hành dân chủ, chấp hành nghiêm pháp luật Nhà nước, kỷ luật quân đội, đoàn kết, thương yêu giúp đỡ lẫn nhau để hoàn thành nhiệm vụ.\n- Có đạo đức, lối sống trong sạch, lành mạnh.\n- Có tinh thần đoàn kết quốc tế trong sáng, thủy chung."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 50. Nội dung cơ bản về chuẩn mực “Bộ đội Cụ Hồ” trong thời kỳ mới?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Bản lĩnh chính trị vững vàng, động cơ trong sáng, trách nhiệm cao. \n- Đạo đức, lối sống trong sạch, lành mạnh. \n- Có văn hóa, tri thức khoa học, trình độ quân sự, năng lực, phương pháp, tác phong công tác và sức khỏe tốt đáp ứng yêu cầu nhiệm vụ. \n- Thực hành dân chủ, kỷ luật tự giác nghiêm minh. \n- Chăm lo xây dựng đoàn kết nội bộ tốt; tôn trọng, giúp đỡ, gắn bó máu thịt với Nhân dân; có tinh thần quốc tế trong sáng."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 51. Giải pháp cơ bản xây dựng điển hình tiên tiến trong học tập, làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, xứng danh “Bộ đội Cụ Hồ” trong thời kỳ mới?"
+            },
+            {
+                "role": "assistant",
+                "content": "Để xây dựng điển hình tiên tiến trong học tập, làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, xứng danh “Bộ đội Cụ Hồ” trong thời kỳ mới, cần thực hiện tốt một số giải pháp sau: \nThứ nhất, các cấp ủy, chỉ huy, cơ quan, đơn vị cần tập trung lãnh đạo thực hiện tốt công tác tuyên truyền, quán triệt đầy đủ chỉ thị, nghị quyết về học tập và làm theo Bác; yêu cầu mỗi tập thể, cá nhân lựa chọn, đăng ký những việc, những mô hình học tập, làm theo sát thực, hiệu quả. \nThứ hai, từng tập thể và cá nhân cần xác định rõ chức năng, nhiệm vụ, những hạn chế, khuyết điểm của mình và yêu cầu đối với nhiệm vụ đang đề ra để trên cơ sở đó nghiên cứu, lựa chọn, đăng ký xây dựng mô hình, nội dung làm theo cụ thể, thiết thực. \nThứ ba, các cấp ủy đảng, cơ quan, đơn vị cần chú trọng thực hiện thường xuyên công tác đánh giá, sơ kết, tổng kết. Theo đó, định kỳ hằng tháng tổ chức đánh giá tình hình, kết quả thực hiện các nội dung “làm theo” của tập thể, cá nhân đã đăng ký; hằng quý, 6 tháng sơ kết, sinh hoạt chuyên đề để kịp thời phát hiện, đánh giá, bình chọn, khen thưởng các điển hình trong làm theo Bác.\nThứ tư, cấp ủy đảng, chỉ huy các cấp cần phát huy tính sáng tạo và quyết tâm cao trong chỉ đạo và triển khai thực hiện, giúp đỡ kịp thời, phù hợp để xây dựng, duy trì và nhân rộng các gương điển hình trong làm theo gương Bác.\nThứ năm, phát huy vai trò nêu gương, cán bộ, đảng viên; cấp trên nêu gương cho cấp dưới; cán bộ, đảng viên nêu gương cho quần chúng học tập, làm theo, với phương châm: xây đi đôi với chống; lấy nhân tố tích cực đẩy lùi tiêu cực.\nThứ sáu, coi trọng sử dụng linh hoạt các hình thức tuyên truyền để động viên, khích lệ các gương điển hình tiêu biểu và định hướng những cách làm hay cho các đơn vị, cá nhân noi theo.\nThứ bảy, kịp thời phát hiện những vấn đề khó khăn, vướng mắc, làm tốt công tác tham mưu cho cấp ủy lãnh đạo, chỉ đạo thực hiện thắng lợi việc đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, xứng danh “Bộ đội Cụ Hồ” trong thời kỳ mới.\n\nPhần thứ ba\nMỘT SỐ HIỂU BIẾT VỀ VĂN HÓA - XÃ HỘI \nVÀ MÔI TRƯỜNG VĂN HÓA TRONG QUÂN ĐỘI"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 52. Văn hóa là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "heo UNESCO: “Văn hóa là tập hợp các đặc trưng tiêu biểu về tinh thần, vật chất, tri thức và xúc cảm của xã hội hoặc một nhóm người trong xã hội; văn hóa không chỉ bao gồm văn học và nghệ thuật, mà còn cả phong cách sống, phương thức chung sống, các hệ giá trị, truyền thống và niềm tin”.  \nTheo Hồ Chí Minh: “Vì lẽ sinh tồn cũng như mục đích của cuộc sống, loài người mới sáng tạo và phát minh ra ngôn ngữ, chữ viết, đạo đức, pháp luật, khoa học, tôn giáo, văn học, nghệ thuật, những công cụ sinh hoạt hằng ngày về mặc, ăn, ở và các phương thức sử dụng. Toàn bộ những sáng tạo và phát minh đó tức là văn hóa”.\nTừ những quan niệm trên, có thể hiểu: Văn hóa là toàn bộ những giá trị vật chất và tinh thần do con người sáng tạo ra bằng lao động và hoạt động thực tiễn trong quá trình lịch sử của mình, biểu hiện trình độ phát triển xã hội, đáp ứng nhu cầu của con người trong từng thời kỳ lịch sử nhất định.\n- Văn hóa vật chất là năng lực sáng tạo của con người được thể hiện và kết tinh trong sản phẩm vật chất.\n- Văn hóa tinh thần là tổng thể các tư tưởng, lý luận và giá trị được sáng tạo ra trong đời sống tinh thần là hoạt động tinh thần của con người."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 53. Đặc trưng của nền văn hóa xã hội chủ nghĩa là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nền văn hóa xã hội chủ nghĩa có những đặc trưng cơ bản sau đây:\nMột là, hệ tư tưởng của giai cấp công nhân là nội dung cốt lõi, giữ vai trò chủ đạo, quyết định phương hưởng phát triển nền văn hóa xã hội chủ nghĩa.\nHai là, nền văn hóa có tính nhân dân rộng rãi và tính dân tộc sâu sắc. \nBa là, nền văn hóa xã hội chủ nghĩa được hình thành, phát triển tự giác, dưới sự lãnh đạo của giai cấp công nhân thông qua tổ chức đảng cộng sản, có sự quản lý của nhà nước xã hội chủ nghĩa."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 54. Vai trò của văn hóa trong sự nghiệp xây dựng và bảo vệ Tổ quốc?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đảng ta khẳng định: “Văn hóa thực sự trở thành nền tảng tinh thần vững chắc của xã hội, là sức mạnh nội sinh quan trọng bảo đảm sự phát triển bền vững và bảo vệ vững chắc Tổ quốc vì mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh”. \nVai trò của văn hóa thể hiện ở những nội dung chủ yếu sau:\n- Văn hoá là nền tảng tinh thần của xã hội.\n- Văn hoá là mục tiêu của sự phát triển bền vững đất nước.\n- Văn hoá là sức mạnh nội sinh quan trọng, động lực bảo đảm sự phát triển bền vững và bảo vệ vững chắc Tổ quốc ."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 55. Nền văn hóa tiên tiến là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Là nền văn hoá yêu nước, tiến bộ, bao gồm những giá trị cao đẹp, tiến bộ của dân tộc, của loài người, mà cốt lõi là lý tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội, trên nền tảng chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh. Mục tiêu tất cả vì con người, xoá bỏ mọi áp bức, bóc lột, mọi bất bình đẳng, vì mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh. \n- Là nền văn hoá vừa kế thừa và phát triển những giá trị văn hoá truyền thống của dân tộc, vừa tiếp thu những tinh hoa văn hoá tiến bộ của nhân loại.\n- Là nền văn hoá tiên tiến về hình thức biểu hiện phương tiện truyền tải nội dung."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 56. Nền văn hóa đậm đà bản sắc dân tộc và bản sắc dân tộc của văn hóa Việt Nam là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Nền văn hóa đậm đà bản sắc dân tộc là nền văn hóa giữ vững và phát huy được những giá trị bền vững, tinh hoa văn hóa của cộng đồng các dân tộc, mang đầy đủ các nội dung về yếu tố dân tộc, dân chủ, nhân văn và hiện đại. \n- Bản sắc dân tộc của văn hóa Việt Nam bao gồm:\n+ Lòng yêu nước nồng nàn, ý chí tự cường dân tộc.\n+ Tinh thần đoàn kết ý thức cộng đồng gắn kết cá nhân - gia đình - làng xã - Tổ quốc.\n+ Lòng nhân ái, khoan dung, trọng nghĩa tình, đạo lý.\n+ Sự tinh tế trong ứng xử, tính giản dị trong lối sống, với ý chí vươn lên, cần cù, sáng tạo, dũng cảm trong lao động và trong đấu tranh..."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 57. Nội dung phong trào toàn dân đoàn kết xây dựng đời sống văn hóa?"
+            },
+            {
+                "role": "assistant",
+                "content": "heo Quyết định Số: 05/2000/QĐ-BVHTT, ngày 12/4/2000 của Bộ Văn hóa - Thông tin, nội dung phong trào “Toàn dân đoàn kết xây dựng đời sống văn hoá”, là: \n- Phát triển kinh tế, giúp nhau làm giầu chính đáng, xoá đói giảm nghèo. \n- Xây dựng tư tưởng chính trị lành mạnh. \n- Xây dựng nếp sống văn minh, kỷ cương xã hội, sống và làm việc theo pháp luật.\n- Xây dựng môi trường văn hoá sạch - đẹp - an toàn. \n- Xây dựng các thiết chế văn hoá - thể thao và nâng cao chất lượng các hoạt động văn hoá - thể thao cơ sở."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 58. Nội dung phong trào xây dựng và quản lý doanh trại chính quy, xanh, sạch, đẹp?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ngày 06/3/2012 Bộ Quốc phòng ban hành Chỉ thị số 05/CT-BQP về tiếp tục đẩy mạnh phong trào thi đua xây dựng và quản lý doanh trại chính quy, xanh, sạch, đẹp. Đây là một bước tiếp tục cụ thể hóa phong trào Thi đua Quyết thắng và phong trào Thi đua “Ngành Hậu cần Quân đội làm theo lời Bác Hồ dạy”. \nNội dung của phong trào, là:\n- Tổ chức thực hiện quy hoạch doanh trại hợp lý, chính quy, quản lý đất quốc phòng theo đúng pháp luật.\n- Xây dựng và quản lý doanh trại theo đúng chế độ quy định.\n- Quản lý, xử dụng điện, nước an toàn, tiết kiệm.\n- Quản lý sử dụng tốt doanh cụ, bảo đảm thống nhất về quy cách.\n- Bảo đảm vệ sinh, môi trường doanh trại xanh, xạch, đẹp.\n- Phát huy tinh thần tự lực, tự cường, nội lực của đơn vị."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 59. Tiêu chuẩn đơn vị văn hóa trong Quân đội?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Duy trì thường xuyên, thực hiện có hiệu quả các cuộc vận động lớn của quân đội; tập thể cán bộ, chiến sĩ phấn đấu, rèn luyện theo tiêu chuẩn con người mới Việt Nam.\n- Có đời sống văn hóa tinh thần lành mạnh, phong phú.\n- Tích cực, chủ động đấu tranh phòng, chống văn hóa xấu độc và tệ nạn xã hội thâm nhập vào đơn vị.\n- Doanh trại xanh, sạch, đẹp, nền nếp, chính quy.\n- Xây dựng và thực hiện tốt mối quan hệ quân dân."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 60. Đơn vị có đời sống tinh thần văn hóa tốt đẹp, lành mạnh, phong phú?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Phong trào văn hóa - văn nghệ có tính quần chúng sâu rộng.\n- Lối sống, nếp sống, ứng xử và giao tiếp có văn hóa.\n- Doanh trại, nơi ăn ở, sinh hoạt, học tập gọn gàng, sạch đẹp.\n- Phát huy tính chủ động, sáng tạo của cán bộ, chiến sĩ để nâng cao và đáp ứng nhu cầu hưởng thụ, hoạt động và sáng tạo văn hóa, văn nghệ.\n- Đảm bảo đầy đủ và có chất lượng các tiêu chuẩn, định mức sinh hoạt tinh thần - văn hóa cho cán bộ và chiến sĩ.\n- Phát huy với hiệu quả cao nhất những cơ sở vật chất - kỹ thuật về văn hóa của đơn vị."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 61. Tiêu chuẩn gia đình văn hóa?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị định số 122/2018/NĐ-CP quy định về xét tặng danh hiệu “Gia đình văn hóa”, gồm các nội dung sau: \n- Gương mẫu chấp hành chủ trương, chính sách của Đảng; pháp luật của Nhà nước; tích cực tham gia các phong trào thi đua của địa phương nơi cư trú.\n- Gia đình hòa thuận, hạnh phúc, tiến bộ, tương trợ giúp đỡ mọi người trong cộng đồng.\n- Tổ chức lao động, sản xuất kinh doanh, công tác, học tập đạt năng suất, chất lượng hiệu quả."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 62. Nội dung phong trào thi đua “Quân đội chung sức xây dựng nông thôn mới”?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ngày 04/01/2012 Bộ trưởng Bộ Quốc phòng ban hành Kế hoạch số 21/KH-CT về phong trào thi đua “Cả nước chung sức xây dựng nông thôn mới”; có 05 nội dung là:\n- Tham gia xây dựng cơ sở hạ tầng kinh tế - xã hội của địa phương (giao thông, thủy lợi, điện, trường học, cơ sở vật chất văn hóa, chợ, bưu điện, nhà ở dân cư) đúng quy hoạch đã được phê duyệt theo tiêu chuẩn nông thôn mới.\n- Tham gia thực hiện việc chuyển dịch cơ cấu, chuyển giao kỹ thuật, nâng cao hiệu quả sản xuất; nâng cao thu nhập người dân, góp phần thực hiện mục tiêu xóa đói giảm nghèo của địa phương.\n- Tham gia thực hiện có hiệu quả công tác giáo dục, y tế, chăm sóc sức khỏe nhân dân, bảo vệ môi trường; thực hiện các phong trào, công tác chính sách xã hội, vận động nhân dân thực hiện nếp sống văn hóa mới.\n- Tham gia xây dựng tổ chức đảng, chính quyền, mặt trận và các đoàn thể vững mạnh xuất sắc; củng cố cơ sở chính trị địa phương vững mạnh toàn diện.\n- Phối hợp, tham gia đấu tranh phòng, chống tệ nạn xã hội, giữ gìn an ninh chính trị, trật tự an toàn xã hội, xây dựng địa bàn an toàn vững mạnh."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 63. Nội dung đăng ký phấn đấu và tiêu chuẩn bình xét khen thưởng thực hiện Phong trào thi đua “Cả nước chung tay vì người nghèo - Không bị ai bỏ lại phía sau”?"
+            },
+            {
+                "role": "assistant",
+                "content": "heo Hướng dẫn số 1830/HD-CT ngày 03/10/2017 của Tổng cục Chính trị:\n- Nội dung đăng ký phấn đấu thực hiện Phong trào thi đua “Cả nước chung tay vì người nghèo - không bị ai bỏ lại phía sau”, là: Mỗi sư đoàn giúp 01 huyện trở lên; mỗi trung đoàn giúp 01 xã trở lên; mỗi tiểu đoàn giúp 01 thôn, bản, ấp trở lên; mỗi đại đội giúp 01 ngõ, xóm trở lên; mỗi trung đội, tiểu đội giúp một  hộ gia đình trở lên; mỗi cán bộ, chiến sĩ có việc làm thiết thực vì người nghèo.\n- Tiêu chuẩn bình xét khen thưởng trong thực hiện Phong trào thi đua “Cả nước chung tay vì người nghèo - Không bị ai bỏ lại phía sau”, là:\n+ Đối với tập thể: Có đăng ký và kế hoạch tham gia hỗ trợ giúp địa phương và nhân dân giảm nghèo bền vững; chủ động, tích cực triển khai thực hiện; có mô hình, cách làm sáng tạo, hiệu quả cao; đạt và vượt các nội dung, chỉ tiêu thi đua. Được địa phương xác nhận có nhiều đóng góp thiết thực, cụ thể giúp địa phương đạt và vượt mục tiêu giảm hộ nghèo theo lộ trình của Chính phủ.\n+ Đối với cá nhân: Hoàn thành tốt chức trách, nhiệm vụ được giao; có sáng kiến, giải pháp hoặc nỗ lực vượt khó, tiêu biểu trong tham mưu tổ chức thực hiện giúp cơ quan, đơn vị hoàn thành vượt mức các nội dung, chỉ tiêu thi đua. Được địa phương xác nhận có nhiều đóng góp trong lãnh đạo, chỉ đạo hoặc có nhiều nỗ lực tham gia cùng đơn vị hỗ trợ giúp địa phương hoàn thành đạt và vượt mục tiêu giảm hộ nghèo theo lộ trình của Chính phủ."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 64. Nội dung cơ bản của Cuộc vận động 50?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ngày 10/01/1998 của Bộ trưởng Bộ Quốc phòng ban hành Chỉ thị số 50/CT-QP, nội dung cơ bản của cuộc vận động 50, gồm 04 mục tiêu chính:\n- Quản lý tốt: Quản lý, khai thác vũ khí, trang bị kỹ thuật tốt, bền, an toàn, tiết kiệm và an toàn giao thông.\n- Khai thác tốt, bền: Duy trì và khôi phục tính năng kỹ thuật, chiến thuật; bảo đảm số lượng, chất lượng và đồng bộ vũ khí, trang bị kỹ thuật nhằm thực hiện nhiệm vụ chiến đấu, sẵn sàng chiến đấu và huấn luyện ở đơn vị.\n- Bảo đảm an toàn: Bảo đảm an toàn đối với vũ khí, trang bị kỹ thuật; bảo đảm an toàn lao động; bảo đảm an toàn giao thông.\n- Tiết kiệm: Là cần, kiệm, tự lực tự cường."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 65. Mục tiêu, phương hướng, nhiệm vụ xây dựng, phát triển văn hóa, con người Việt Nam trong giai đoạn mới?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đảng ta xác định mục tiêu, phương hướng, nhiệm vụ xây dựng, phát triển văn hóa, con người Việt Nam trong giai đoạn mới, là:\nVề mục tiêu: Xây dựng nền văn hóa Việt Nam tiên tiến đậm đà bản sắc dân tộc, con người Việt Nam phát triển toàn diện đáp ứng yêu cầu phát triển bền vững đất nước và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa.\nVề phương hướng, nhiệm vụ: \n- Xây dựng con người Việt Nam phát triển toàn diện\n- Xây dựng môi trường văn hóa lành mạnh, phù hợp với bối cảnh phát triển kinh tế thị trường định hướng xã hội chủ nghĩa và hội nhập quốc tế.\n- Xây dựng văn hóa trong chính trị và kinh tế.\n- Nâng cao chất lượng, hiệu quả hoạt động văn hóa.\n- Làm tốt công tác lãnh đạo, quản lý báo chí, xuất bản.\n- Phát triển công nghiệp văn hóa đi đôi với xây dựng, hoàn thiện thị trường dịch vụ và sản phẩm văn hóa.\n- Chủ động hội nhập quốc tế về văn hóa, tiếp thu tinh hoa văn hóa nhân loại.\n- Tiếp tục đổi mới phương thức lãnh đạo của Đảng và nâng cao hiệu lực, hiệu quả quản lý nhà nước đối với lĩnh vực văn hóa."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 66. Quan hệ xã hội và chính sách xã hội?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Quan hệ xã hội: Là những quan hệ giữa người với người xuất hiện trong quá trình con người hoạt động trên tất cả các lĩnh vực của đời sống xã hội, đó là quá trình sản xuất và phân phối của cải vật chất, trong việc thỏa mãn nhu cầu văn hóa, tinh thần cũng như trong việc bảo vệ lợi ích của xã hội. Bao gồm: Quan hệ vật chất và quan hệ tinh thần. Quan hệ xã hội tồn tại khách quan và không lệ thuộc vào ý chí của con người.\n- Chính sách xã hội: Là sự tác động của Nhà nước vào sự phân phối và ổn định các hoàn cảnh sống cho con người thuộc các nhóm xã hội khác nhau trong lĩnh vực thu nhập, việc làm, sức khỏe, nhà ở và giáo dục trên cơ sở mở rộng, bình đẳng và công bằng xã hội trong một bối cảnh lịch sử và cấu trúc xã hội nhất định."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 67. Quan điểm của Đảng ta về chính sách xã hội hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Về chính sách xã hội ở nước ta hiện nay được Đảng ta xác định:\n- Xây dựng, thực hiện các chính sách phù hợp với các giai tầng xã hội. \n- Giải quyết hài hòa các quan hệ xã hội, ngăn chặn, giải quyết có hiệu quả những vấn đề xã hội bức xúc, những mâu thuẫn có thể dẫn đến xung đột xã hội.\n- Quan tâm thích đáng đến các tầng lớp, bộ phận yếu thế trong xã hội, đồng bào các dân tộc thiểu số ở vùng cao, vùng sâu, vùng xa, khắc phục xu hướng gia tăng phân hóa giàu – nghèo, bảo đảm sự phát triển xã hội ổn định và bền vững.\n- Kịp thời kiểm soát và xử lý các rủi ro, mâu thuẫn, xung đột xã hội.\n- Đẩy mạnh các giải pháp đấu tranh phòng, chống tội phạm và tệ nạn xã hội.\n- Giảm thiểu tai nạn giao thông.\n- Bảo đảm an toàn xã hội, an ninh con người."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 68. Các chính sách xã hội nổi bật ở nước ta hiện nay là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Chính sách lao động - việc làm. \n- Chính sách xóa đói, giảm nghèo.\n- Hệ thống bảo hiểm xã hội.\n- Chính sách người có công.\n- Chính sách hỗ trợ xã hội."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 69. Hỗ trợ xã hội ở nước ta hiện nay được thực hiện như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ở nước ta hiện nay, hỗ trợ xã hội bao gồm: Hỗ trợ thường xuyên (người tàn tật, trẻ mồ côi, người già không nơi nương tựa…); Hỗ trợ xã hội đột xuất (cứu đói, cứu trợ thiên tai).\n- Hỗ trợ thường xuyên: Điều kiện để được hưởng hỗ trợ thường xuyên là người già cô đơn, không nơi nương tựa, trẻ mồ côi, người tàn tật không có người nuôi dưỡng được hưởng trợ cấp cứu trợ xã hội thường xuyên của xã, phường hoặc đưa vào nuôi dưỡng tập trung trong các cơ sở bảo trợ xã hội, được hỗ trợ khám chữa bệnh miễn phí, giáo dục, chỉnh hình phục hồi chức năng, dạy nghề, tạo việc làm...\n- Hỗ trợ đột xuất: Những rủi ro về dịch bệnh, thiên tai, mất mùa là những yếu tố bất thường ảnh hưởng lớn đến đời sống của nhân dân. Nhà nước có các chính sách, chương trình hỗ trợ đột xuất (bằng tiền mặt, lương thực…)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 70. Chính sách ưu đãi xã hội đối với người có công ở nước ta hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đảng và Nhà nước ta luôn quan tâm đến người có công với cách mạng. Chính sách ưu đãi người có công với cách mạng được thực hiện như sau:\n- Ưu đãi xã hội đối với người có công được thực hiện theo nguyên tắc bình đẳng, công khai, công bằng xã hội. \n- Người có công được chăm lo, đền ơn đáp nghĩa, được ưu tiên, ưu đãi trong giáo dục, đào tạo, giải quyết việc làm. \n- Những trường hợp như thương binh nặng, thân nhân liệt sỹ, Mẹ Việt Nam anh hùng được ưu tiên về nhà ở, đất ở, được chăm lo phụng dưỡng về vật chất và tinh thần của địa phương và các đoàn thể xã hội."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 71. Những nhiệm vụ chủ yếu về quản lý phát triển xã hội, thực hiện tiến bộ, công bằng xã hội ở nước ta hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Việc quản lý phát triển xã hội, thực hiện tiến bộ, công bằng xã hội ở nước ta hiện nay, được Đảng ta xác định, là:\n- Xây dựng, thực hiện các chính sách phù hợp với các giai tầng xã hội.\n- Gắn kết chặt chẽ chính sách kinh tế với chính sách xã hội.\n- Giải quyết tốt lao động, việc làm và thu nhập cho người lao động, bảo đảm an sinh xã hội.\n- Coi trọng chăm sóc sức khỏe nhân dân, công tác dân số - kế hoạch hóa gia đình, bảo vệ và chăm sóc sức khỏe bà mẹ, trẻ em; xây dựng gia đình hạnh phúc."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 72. Các mốc son cơ bản của  lịch sử dân tộc Việt Nam là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "ong tiến trình phát triển lịch sử, Việt Nam nằm ở một trong những khu vực được coi là cái nôi của loài người và là một trong những trung tâm phát sinh nông nghiệp sớm với nền văn minh lúa nước, nơi đã từng trải qua các cuộc cách mạng đá mới và cách mạng luyện kim. Các mốc son lịch sử của dân tộc Việt Nam được khái quát như sau:\n- Nhà nước đầu tiên của Việt Nam là Nhà nước Văn Lang ra đời vào khoảng thế kỷ thứ VII trước Công nguyên. \n- Thời kỳ Bắc thuộc: Từ năm 207 trước Công nguyên, bắt đầu từ khi Triệu Đà diệt An Dương Vương được đánh dấu là thời kỳ Bắc thuộc lần thứ nhất, đến năm 1427 kết thúc thời kỳ Bắc thuộc lần thứ tư. \n- Thời kỳ phát triển quốc gia phong kiến độc lập: Từ năm 938 đến giữa thế kỷ XIX.\n- Thời kỳ thuộc địa nửa phong kiến: Gần 100 năm (1858 - 1945).\n- Đảng Cộng sản Việt Nam ra đời: Ngày 3/2/1930.\n- Nước Việt Nam Dân chủ cộng hòa được thành lập vào ngày 02/9/1945 (đây cũng là ngày Quốc khánh của nước Cộng hòa xã hội chủ nghĩa Việt Nam hiện nay).\n- Chiến thắng Điện Biên Phủ ngày 7/5/1954 và Giải phóng hoàn toàn miền Nam, thống nhất đất nước ngày 30/4/1975, cả nước đi lên chủ nghĩa xã hội.\n- Ngày 02/7/1976, nước Việt Nam Dân chủ Cộng hoà được đổi tên thành nước cộng hoà xã hội chủ nghĩa Việt Nam. \n- Việt Nam trở thành thành viên của Liên Hợp quốc năm 1977.\n- Đường lối đổi mới toàn diện đất nước từ Đại hội lần thứ VI của Đảng Cộng sản Việt Nam (1986) tiếp tục được Đảng ta khẳng định, phát triển và hoàn thiện qua các kỳ đại hội tiếp theo."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 73. Thời kỳ phát triển quốc gia phong kiến độc lập của dân tộc Việt Nam được khái quát qua các mốc lịch sử cơ bản như thế nào?"
+            },
+            {
+                "role": "assistant",
+                "content": "hời kỳ phát triển quốc gia phong kiến độc lập của dân tộc Việt Nam được khái quát qua các mốc lịch sử cơ bản như sau:\n- Chiến thắng Bạch Đằng năm 938 kết thúc hơn 1.000 năm Bắc thuộc, mở ra kỷ nguyên mới trong lịch sử Việt Nam - kỷ nguyên phát triển quốc gia phong kiến độc lập, thời kỳ xây dựng và bảo vệ nền độc lập dân tộc. \n- Dưới các triều Ngô (939-967), Đinh (968-980), Tiền Lê (980-1009), Nhà nước trung ương tập quyền được thiết lập. Sau đó, Việt Nam bước vào thời kỳ phục hưng và phát triển (với quốc hiệu Đại Cồ Việt). \n- Dưới triều Lý (1009-1226), Trần (1226 -1400), Hồ (1400-1407), Hậu Lê (1428-1527), Đại Việt được biết đến như một quốc gia thịnh vượng ở Châu Á. \n- Từ thế kỷ XVI, trong đó điển hình là (Nhà Tây Sơn 1778 -1802; Nhà Nguyễn 1802-1945) chế độ phong kiến Việt Nam với tư tưởng Nho giáo đã bộc lộ sự lạc hậu và bắt đầu suy yếu. Trong khi nhiều quốc gia - dân tộc ở châu Âu đang tiến hành cách mạng tư sản và dần chuyển sang chủ nghĩa tư bản thì Đại Việt bị chìm trong nội chiến và chia cắt. \n- Bước sang đầu thế kỷ XIX, một số chí sĩ Việt Nam như Nguyễn Trường Tộ, Phạm Phú Thứ, Trương Vĩnh Ký, Đặng Huy Trứ, Nguyễn Lộ Trạch... đã đệ trình những đề nghị canh tân đất nước, nhưng đều bị triều Nguyễn khước từ, đẩy đất nước vào tình trạng lạc hậu, bế tắc và từ đó Việt Nam đã trở thành một nước thuộc địa nửa phong kiến trong gần 100 năm (1858-1945)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 74. Các đồng chí được bầu làm Tổng bí thư Đảng Cộng sản Việt Nam qua các kỳ Đại hội?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đảng Cộng sản Việt Nam ra đời: Ngày 3/2/1930 là dấu mốc quan trọng trong lịch sử Việt Nam. Đồng chí Trần phú làm Tổng bí thư đầu tiên. Kể từ khi thành lập đến nay, Đảng ta đã trải qua 12 kỳ đại hội, mỗi kỳ đại hội của Đảng đều gắn với những giai đoạn lịch sử, những thắng lợi, những thành tựu và những bài học kinh nghiệm của cách mạng Việt Nam. \nĐại hội Đại biểu Toàn quốc lần thứ I. Diễn ra từ ngày 28 đến ngày 31/3/ 1935, tại phố Quan Công, Ma Cao (Trung Quốc). Đồng chí Lê Hồng Phong được bầu làm Tổng Bí thư. Ban Chấp hành Trung ương nhất trí cử đồng chí Nguyễn Ái Quốc là đại biểu của Đảng bên cạnh Quốc tế Cộng sản.\nĐại hội Đại biểu Toàn quốc lần thứ II. Từ ngày 11-19/2/1951, tại xã Vinh Quang, huyện Chiêm Hóa, tỉnh Tuyên Quang (nay là xã Kim Bình, huyện Chiêm Hóa, tỉnh Tuyên Quang). Chủ tịch Hồ Chí Minh là Chủ tịch Đảng, bầu đồng chí Trường Chinh làm Tổng Bí thư. \nĐại hội Đại biểu Toàn quốc lần thứ III . Từ ngày 5-10/9/1960, tại Hà Nội. Đồng chí Lê Duẩn được bầu làm Bí thư thứ nhất BCHTWĐ.\nĐại hội Đại biểu Toàn quốc lần thứ IV. Từ ngày 14-20/12/1976, tại Hà Nội. Đồng chí Lê Duẩn tiếp tục được bầu làm Tổng Bí thư.\nĐại hội Đại biểu Toàn quốc lần thứ V.  Từ ngày 27-31/3/1982, tại Hà Nội.  Đồng chí Lê Duẩn được bầu lại giữ chức vụ Tổng Bí thư.\nĐại hội Đại biểu Toàn quốc lần thứ VI. Từ ngày 15-18/12/1986, tại Hà Nội.  Đồng chí Nguyễn Văn Linh được bầu làm Tổng Bí thư.\nĐại hội Đại biểu Toàn quốc lần thứ VII. Từ ngày 24-27/6/1991, tại Hà Nội. Đồng chí Đỗ Mười được bầu làm Tổng Bí thư.\nĐại hội Đại biểu Toàn quốc lần thứ VIII. Từ ngày 28/6-1/7/1996, tại Hà Nội. Đồng chí Đỗ Mười được bầu lại làm Tổng Bí thư (tháng 12/1997, đồng chí Lê Khả Phiêu đã được bầu làm Tổng Bí thư).\nĐại hội Đại biểu Toàn quốc lần thứ IX. Từ ngày 19-22/4/2001, tại Hà Nội. Đồng chí Nông Đức Mạnh được bầu làm Tổng Bí thư.\nĐại hội Đại biểu Toàn quốc lần thứ X. Từ ngày 18-25/4/2006, tại Hà Nội. Đồng chí Nông Đức Mạnh được bầu lại làm Tổng Bí thư.\nĐại hội Đại biểu Toàn quốc lần thứ XI. Từ ngày 12-19/01/2011, tại Hà Nội. Đồng chí Nguyễn Phú Trọng được bầu làm Tổng Bí thư.\nĐại hội Đại biểu toàn quốc lần thứ XII: Từ 20-28/1/2016, tại Hà Nội. Đồng chí Nguyễn Phú Trọng được bầu lại làm Tổng Bí thư."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 75. Các đồng chí được bầu làm Chủ tịch Quốc hội Việt Nam qua các khóa?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nước Việt Nam dân chủ cộng hòa ra đời: Tháng 8 năm 1945, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, đứng đầu là Chủ tịch Hồ Chí Minh, nhân dân Việt Nam đã tiến hành cuộc Tổng khởi nghĩa thành công, thành lập nước Việt Nam dân chủ cộng hòa ngày 2 tháng 9 năm 1945.\nQuốc hội Việt Nam khóa I (1946-1960) (từ ngày 2/3/1946-8/11/1946) do ông Nguyễn Văn Tố làm trưởng ban Thường trực Nghị viện nhân dân (nay là chủ tịch Quốc hội); (từ ngày 8/11/1946-13/4/1955) do ông Bùi Bằng Đoàn làm Trưởng ban Thường trực Nghị viện nhân dân; (từ ngày 1/8/1948-15/7/1960); đồng chí Tôn Đức Thắng quyền Trưởng ban và Trưởng ban Nghị viện nhân dân. \nQuốc hội Việt Nam khóa II (1960-1964) đồng chí Trường Chinh làm Chủ tịch Ủy ban Thường vụ Quốc hội.\nQuốc hội Việt Nam khóa III (1964-1971) đồng chí Trường Chinh làm Chủ tịch Ủy ban Thường vụ Quốc hội.\nQuốc hội Việt Nam khóa IV (1971-1975) đồng chí Trường Chinh làm Chủ tịch Ủy ban Thường vụ Quốc hội.\nQuốc hội Việt Nam khóa V (1975-1976) đồng chí Trường Chinh làm Chủ tịch Ủy ban Thường vụ Quốc hội.\nQuốc hội Việt Nam khóa VI (1976-1981) đồng chí Trường Chinh làm Chủ tịch Quốc hội.\nQuốc hội Việt Nam khóa VII (1981-1987) đồng chí Nguyễn Hữu Thọ làm Chủ tịch Quốc hội.\nQuốc hội Việt Nam khóa VIII (1987-1992) đồng chí Lê Quang Đạo làm Chủ tịch Quốc hội.\nQuốc hội Việt Nam khóa IX (1992-1997) đồng chí Nông Đức Mạnh làm Chủ tịch Quốc hội.\nQuốc hội Việt Nam khóa X (1997-2002) đồng chí Nông Đức Mạnh, Nguyễn Văn An làm Chủ tịch Quốc hội.\nQuốc hội Việt Nam Khóa XI (2002-2007) đồng chí Nguyễn Văn An, Nguyễn Phú Trọng  làm Chủ tịch Quốc hội.\nQuốc hội Việt Nam Khóa XII (2007-2011) đồng chí Nguyễn Phú Trọng làm Chủ tịch Quốc hội.\nQuốc hội Việt Nam Khóa XIII (2011-2016) đồng chí Nguyễn Sinh Hùng; làm Chủ tịch Quốc hội.\nQuốc hội Việt Nam Khóa XIV (2016-2021) đồng chí Nguyễn Thị Kim Ngân làm Chủ tịch Quốc hội."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 76. Những nét tiêu biểu về truyền thống của dân tộc Việt Nam là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị quyết Hội nghị lần thứ năm (khoá VIII) về xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc, trong đó có những nét tiêu biểu về truyền thống của dân tộc Việt Nam, là:  \n- Lòng yêu nước nồng nàn, ý chí tự cường dân tộc.\n- Tinh thần đoàn kết, ý thức cộng đồng dân tộc.\n- Lòng nhân ái, khoan dung, khát vọng hòa bình, yêu hòa bình.\n- Cần cù, lạc quan, khiêm tốn, giản dị, trung thực.\n- Dũng cảm, bất khuất.\nPhần thứ tư\nCHỨC NĂNG, NHIỆM VỤ CỦA QUÂN ĐỘI VÀ TRÁCH NHIỆM CỦA CÁN BỘ, CHIẾN SĨ TRONG XÂY DỰNG ĐƠN VỊ"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 77. Những nội dung cơ bản về truyền thống của QĐND Việt Nam?"
+            },
+            {
+                "role": "assistant",
+                "content": "Quân đội nhân dân Việt Nam được thành lập ngày 22/12/1944 tại khu rừng nằm giữa hai Tổng Trần Hưng Đạo và Hoàng Hoa Thám, thuộc Châu Nguyên Bình, tỉnh cao Bằng (nay là xã Tam Kim, huyện Nguyên Bình, tỉnh Cao Bằng). \nDưới sự lãnh đạo của Đảng và Bác Hồ, sự nuôi dưỡng và đùm bọc của nhân dân, quân đội ta đã không ngừng phát huy bản chất tốt đẹp, xây đắp nên truyền thống rất vẻ vang, được Chủ tịch Hồ Chí Minh khen ngợi: “Quân đội ta trung với Đảng, hiếu với dân, sẵn sàng chiến đấu hy sinh, vì độc lập, tự do của Tổ quốc, vì chủ nghĩa xã hội. Nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng”. \nTrải qua 75 năm chiến đấu, xây dựng và trưởng thành, cùng với những chiến công mãi mãi ghi vào lịch sử dân tộc như những biểu tượng sáng ngời về một quân đội từ nhân dân mà ra, vì nhân dân mà chiến đấu, phục vụ, quân đội ta đã xây đắp nên những truyền thống cao đẹp của “Bộ đội Cụ Hồ”. Truyền thống đó được biểu hiện ở những nội dung cơ bản sau: \n- Trung thành vô hạn với Tổ quốc Việt Nam xã hội chủ nghĩa, với Đảng, Nhà nước và nhân dân. \n- Quyết chiến, quyết thắng, biết đánh, biết thắng. \n- Gắn bó máu thịt với nhân dân, quân với dân một ý chí. \n- Nội bộ đoàn kết, cán bộ, chiến sĩ bình đẳng thương yêu giúp đỡ nhau, trên dưới đồng lòng, thống nhất ý chí và hành động. \n- Kỷ luật tự giác nghiêm minh... \n- Độc lập tự chủ, tự lực tự cường, cần, kiệm xây dựng quân đội, xây dựng đất nước, tôn trọng và bảo vệ của công. \n- Lối sống trong sạch, lành mạnh, có văn hoá, trung thực, khiêm tốn, giản dị, lạc quan. \n- Tinh thần ham học, cầu tiến bộ, có ý chí vươn lên. \n- Đoàn kết quốc tế trong sáng, thuỷ chung, chí nghĩa, chí tình."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 78. Những giải pháp cơ bản nào để phát huy bản chất, truyền thống Quân đội nhân dân Việt Nam?"
+            },
+            {
+                "role": "assistant",
+                "content": "Quân đội nhân dân là lực lượng nòng cốt của các lực lượng vũ trang nhân dân trong thực hiện nhiệm vụ quốc phòng, bao gồm lực lượng thường trực và lực lượng dự bị động viên. Lực lượng thường trực của Quân đội nhân dân có Bộ đội chủ lực và bộ đội địa phương. Hiện nay, ngày 22/12 hằng năm là ngày truyền thống của Quân đội nhân dân, ngày Hội quốc phòng toàn dân. Để phát huy truyền thống Quân đội nhân dân Việt Nam trong tình hình mới, cần thực hiện những giải pháp cơ bản sau:\nMột là, đề cao lòng tự hào, tự tôn dân tộc; thấy rõ niềm vinh dự được trở thành quân nhân trong Quân đội nhân dân Việt Nam, xác định rõ trách nhiệm quân nhân, phấn đấu hoàn thành tốt chức trách, nhiệm vụ được giao.\nHai là, nhận thức sâu sắc tình hình, yêu cầu nhiệm vụ của cách mạng, nhiệm vụ của quân đội và đơn vị; khắc phục khó khăn hoàn thành tốt nhiệm vụ.\nBa là, thường xuyên học tập rèn luyện nâng caophẩm chất chính trị, có động cơ trong sáng, bản lĩnh vững vàng, trách nhiệm cao, có đạo đức, lối sống trong sạch, lành mạnh, có tri thức khoa học và trình độ quân sự, năng lực, phương pháp, tác phong công tác đáp ứng yêu cầu nhiệm vụ, thực hành dân chủ, ý thức tổ chức, kỷ luật tự giác, nghiêm minh, đoàn kết nội bộ, đoàn kết gắn bó với nhân dân và đoàn kết quốc tế."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 79. Quân đội nhân dân Việt Nam có mấy chức năng cơ bản?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đó là những chức năng gì?\nTrả lời\nQuân đội ta có 03 chức năng cơ bản: Đội quân chiến đấu; đội quân công tác; đội quân lao động sản xuất. Ba chức năng này là một thể thống nhất, quan hệ chặt chẽ với nhau, phản ánh bản chất cách mạng của Quân đội ta. Trong đó:\n- Chức năng đội quân chiến đấu là chức năng cơ bản, chủ yếu, phản ánh bản chất cách mạng, quan điểm, đường lối quân sự của Đảng ta, đồng thời là chức năng nổi trội phản ánh tính chất hoạt động quân sự. \n- Chức năng đội quân công tác là chức năng cơ bản, quan trọng thuộc về bản chất, truyền thống của Quân đội ta. \n- Chức năng đội quân lao động sản xuất là chức năng có ý nghĩa thực tiễn sâu sắc, thuộc về bản chất, truyền thống tốt đẹp của Quân đội, vừa chiến đấu vừa sản xuất góp phần nâng cao đời sống bộ đội."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 80. Mục tiêu, lý tưởng chiến đấu và nhiệm vụ của Quân đội nhân dân Việt Nam là gì?"
+            },
+            {
+                "role": "assistant",
+                "content": "Mục tiêu, lý tưởng chiến đấu của Quân đội nhân dân Việt Nam\nQuân đội nhân dân Việt Nam do Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh tổ chức và lãnh đạo, là quân đội cách mạng, mang bản chất giai cấp công nhân, là công cụ bạo lực của Đảng và Nhà nước ta, vì vậy, mục tiêu lý tưởng của Đảng cũng là mục tiêu lý tưởng của quân đội, đó là: Vì độc lập dân tộc và chủ nghĩa xã hội.\nQuân đội ta có 05 nhiệm vụ cơ bản: \n- Sẵn sàng chiến đấu và chiến đấu thắng lợi.\n- Huấn luyện, xây dựng quân đội, đơn vị vững mạnh toàn diện.\n- Tích cực tham gia lao động sản xuất, góp phần phát triển kinh tế - xã hội, cải thiện đời sống bộ đội. \n- Thực hiện tốt công tác tuyên truyền, vận động nhân dân. \n- Củng cố, xây dựng và phát triển quan hệ đoàn kết hữu nghị với nhân dân và quân đội các nước vì hoà bình, độc lập dân tộc, dân chủ và tiến bộ xã hội."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 81. Vì sao Quân đội ta phải luôn luôn sẵn sàng chiến đấu?"
+            },
+            {
+                "role": "assistant",
+                "content": "Sẵn sàng chiến đấu là chức năng cơ bản, là nhiệm vụ chính trị quan trọng, thường xuyên lâu dài, thiêng liêng, đồng thời mang tính cấp bách của Quân đội ta, xuất phát từ những lý do cơ bản như sau:\n\t- Xuất phát từ quy luật dựng nước đi đôi với giữ nước của dân tộc ta và hai nhiệm vụ chiến lược của cách mạng Việt Nam hiện nay đó là: xây dựng thành công chủ nghĩa xã hội và bảo vệ vững chắc Tổ quốc Việt Nam XHCN.\n\t- Xuất phát từ bản chất, âm mưu, thủ đoạn chống phá Đảng, Nhà nước và nhân dân ta của chủ nghĩa đế quốc và các thế lực thù địch.\n\t- Xuất phát từ vai trò, chức năng, nhiệm vụ của Quân đội ta.\n\t- Từ thực trạng nhiệm vụ sẵn sàng chiến đấu của Quân đội ta hơn 75 năm qua."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 82. Giải pháp gì để tăng cường sẵn sàng chiến đấu của Quân đội?"
+            },
+            {
+                "role": "assistant",
+                "content": "Để tăng cường sẵn sàng chiến đấu đơn vị cần tiến hành đồng bộ nhiều giải pháp, trong đó tập trung vào một số giải pháp chủ yếu sau:\nMột là, tăng cường công tác lãnh đạo, giáo dục, quán triệt làm chuyển biến mạnh mẽ về nhận thức, trách nhiệm của cán bộ, chiến sĩ đối với nhiệm vụ huấn luyện, sẵn sàng chiến đấu.\nHai là, xây dựng kế hoạch sẵn sàng chiến đấu bám sát phương châm “Cơ bản, thiết thực, vững chắc”, kết hợp chặt chẽ giữa huấn luyện với xây dựng chính quy, rèn luyện kỷ luật.\nBa là, kết hợp huấn luyện với công tác nắm, dự báo tình hình, chủ động chuẩn bị về mọi mặt để xử lý thắng lợi các tình huống, không để đơn vị bị động bất ngờ. \nBốn là, đổi mới nội dung, chương trình, tổ chức và phương pháp huấn luyện, diễn tập, bảo đảm huấn luyện, sẵn sàng chiến đấu.\nNăm là, đẩy mạnh việc ứng dụng công nghệ hiện đại trong công tác huấn luyện gắn với phong trào Thi đua Quyết thắng trong huấn luyện, SSCĐ."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 83. Quan điểm trong huấn luyện?"
+            },
+            {
+                "role": "assistant",
+                "content": "Có 03 quan điểm trong huấn luyện, là:\n- Phát huy quân sự dân chủ, động viên tính tự giác, tích cực, chủ động, sáng tạo của người học, chống áp đặt, rập khuôn, máy móc.\n- Lý luận liên hệ với thực tiễn, lý thuyết đi đôi với thực hành, lấy thực hành là chính.\n- Quá trình huấn luyện là quá trình truyền thụ kinh nghiệm chiến đấu và truyền thống tốt đẹp của Quân đội ta cho người học."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 84. Những nguyên tắc, mối kết hợp trong huấn luyện?"
+            },
+            {
+                "role": "assistant",
+                "content": "1. Nguyên tắc trong huấn luyện (có 08 nguyên tắc)\n- Cách mạng, khoa học, quần chúng.\n- Thiết thực, chất lượng, hiệu quả.\n- Sẵn sàng chiến đấu.\n- Tập trung thống nhất.\n- Hệ thống, thiết thực.\t\n- Thực sự thực tế.\n- Cấp trên dạy cấp dưới, chỉ huy dạy đơn vị.\n- Từ thấp đến cao.\n2. Các mối kết hợp trong huấn luyện (có 06 mối kết hợp)\n- Kết hợp huấn luyện với chiến đấu.\n- Kết hợp lý thuyết với thực hành.\n- Kết hợp chiến thuật với kỹ thuật.\n- Kết hợp cơ bản với ứng dụng.\n- Kết hợp học mới ôn cũ.\n- Kết hợp động tác với tư tưởng, tác phong."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 85. Nội dung xây dựng đơn vị chính quy?"
+            },
+            {
+                "role": "assistant",
+                "content": "Chỉ thị số 37/CT-ĐUQSTW (nay là QUTW) nêu 04 nội dung xây dựng đơn vị chính quy, là:\n- Nâng cao trình độ thống nhất và chất lượng về trang phục.\n- Nâng cao trình độ về lễ tiết, tác phong quân nhân (Quân nhân phải thực hiện đúng quy định về xưng hô, chào hỏi; Quân nhân phải thực hiện đúng những động tác đội ngũ khi hành động, đi đứng trong doanh trại cũng như khi ở nơi công cộng).\n- Nâng cao trình độ tổ chức thực hiện chức trách, nền nếp chế độ quy định (Chỉ huy và cơ quan phải chấp hành đúng nền nếp chế độ quy định, thực hiện đúng chức trách; Tổ chức bộ đội thực hiện đúng chế độ sinh hoạt trong ngày, trong tuần).\n- Nâng cao trình độ quản lý bộ đội, quản lý vũ khí, trang bị (Quản lý bộ đội chặt chẽ có nền nếp là một biện pháp xây dựng chính quy tốt nhất, có hiệu quả nhất; quản lý vũ khí trang bị vật tư kỹ thuật phải theo chế độ quy định thống nhất từ trên xuống dưới)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 86. Biện pháp xây dựng đơn vị chính quy?"
+            },
+            {
+                "role": "assistant",
+                "content": "Chỉ thị số 37/CT-ĐUQSTW (nay là QUTW) nêu 07 biện pháp xây dựng chính quy, là:\n- Giáo dục tuyên truyền sâu rộng trong toàn quân.\n- Tăng cường sự lãnh đạo trực tiếp của cấp ủy Đảng các cấp.\n- Chỉ huy các cấp phải trực tiếp chủ trì việc chỉ đạo xây dựng.\n- Phát huy sức mạnh đồng bộ của cơ quan các cấp.\n- Bảo đảm cơ sở vật chất.\n- Xây dựng đơn vị điểm.\n- Hằng tháng từng cấp tiến hành kiểm điểm việc thực hiện xây dựng chính quy và báo cáo lên cấp trên."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 87. Tiêu chuẩn xây dựng đơn vị vững mạnh toàn diện?"
+            },
+            {
+                "role": "assistant",
+                "content": "Chỉ thị số 917/1999/CT-QP ngày quy định 05 tiêu chuẩn xây dựng đơn vị vững mạnh toàn diện, là:\n- Vững mạnh về chính trị. \n- Tổ chức biên chế đúng quy định, duy trì nghiêm các chế độ sẵn sàng chiến đấu, huấn luyện giỏi.\n- Xây dựng nền nếp chính quy và quản lý kỷ luật tốt.\n- Bảo đảm hậu cần, tài chính và đời sống bộ đội.\n- Bảo đảm tốt công tác kỹ thuật."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 88. Các hình thức giáo dục cơ bản trong Quân đội?"
+            },
+            {
+                "role": "assistant",
+                "content": "Điều 20, Chương IV Quy chế giáo dục chính trị trong Quân đội nhân dân và Dân quân tự vệ Việt Nam số 438/QĐ-CT ngày 31/3/2016 quy định 06 hình thức giáo dục chính trị cơ bản, là:\n- Học tập chính trị.\n- Nghiên cứu chuyên đề của sĩ quan, quân nhân chuyên nghiệp.\n- Sinh hoạt chính trị tư tưởng.\n- Thông báo chính trị - thời sự; đọc báo, nghe đài, xem truyền hình.\n- Ngày chính trị và văn hóa tinh thần ở cơ sở.\n- Học tập chính trị qua mạng máy tính nội bộ."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 89. Trách nhiệm của cán bộ, chiến sĩ trong xây dựng đơn vị?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Ra sức học tập và tu dưỡng nâng cao giác ngộ về chính trị, tư tưởng, quan điểm, lập trường của giai cấp công nhân. Kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội. \n- Tích cực rèn luyện,  học tập, lao động, nâng cao trình độ kỹ chiến thuật, làm chủ vũ khí trang bị, sẵn sàng chiến đấu cao, hoàn thành tốt chức trách, nhiệm vụ được giao, góp phần xây dựng đơn vị vững mạnh toàn diện.\n- Đề cao ý thức tổ chức kỷ luật, rèn luyện tác phong chính quy, chấp hành nghiêm pháp luật của Nhà nước, điều lệnh, điều lệ của quân đội, thương yêu đồng chí, kỷ luật nghiêm minh. \n- Luôn nêu cao tinh thần cảnh giác cách mạng, không mơ hồ, ảo tưởng. Kiên quyết đấu tranh làm thất bại âm mưu, thủ đoạn “diễn biến hoà bình”, gây bạo loạn lật đổ, của các thế lực thù địch.\n- Tích cực tham gia tuyên truyền vận động nhân dân và gia đình thực hiện đường lối chủ trương của Đảng, chính sách và pháp luật của Nhà nước, giúp nhân dân phát triển sản xuất, xoá đói giảm nghèo, tham gia xây dựng cơ sở chính trị địa phương nơi đóng quân, tăng cường mối quan hệ máu thịt giữa quân đội và nhân dân.\n- Tích cực tăng gia sản xuất, triệt để thực hành tiết kiệm, giữ tốt, dùng bền các cơ sở vật chất, trang thiết bị của đơn vị; đồng thời, kiên quyết đấu tranh chống mọi biểu hiện tham ô, tham nhũng, lãng phí trong đơn vị.\nPhần thứ năm\nCHẤP HÀNH PHÁP LUẬT NHÀ NƯỚC, KỶ LUẬT QUÂN ĐỘI \nCỦA CÁN BỘ, CHIẾN SĨ TRONG TÌNH HÌNH HIỆN NAY"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 90. Hệ thống pháp luật và văn bản pháp luật của Việt Nam?"
+            },
+            {
+                "role": "assistant",
+                "content": "Hệ thống pháp luật của Việt Nam là tổng thể các quy phạm pháp luật, các nguyên tắc, định hướng và mục đích của pháp luật có mối liên hệ mật thiết và thống nhất với nhau, được phân định thành các ngành luật, các chế định pháp luật và được thể hiện trong các văn bản do cơ quan nhà nước Việt Nam có thẩm quyền ban hành theo những hình thức, thủ tục nhất định để điều chỉnh các quan hệ xã hội phát sinh trên lãnh thổ Việt Nam.\nHệ thống văn bản pháp luật của Việt Nam, gồm có: \n- Hiến pháp (do Quốc Hội ban hành, là văn bản pháp luật cao nhất).\n- Luật, hoặc Bộ luật (do Quốc hội thông qua, Chủ tịch nước ký ban hành).\n- Nghị quyết của Quốc hội.\n- Văn bản dưới luật…\n- Văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 91. Một số khái niệm về vi phạm pháp luật nhà nước, kỷ luật quân đội?"
+            },
+            {
+                "role": "assistant",
+                "content": "Kỷ luật quân đội: Là tổng thể những điều quy định buộc mọi quân nhân phải triệt để chấp hành nhằm tạo sự thống nhất cao trong hành động, đảm bảo cho quân đội phát huy được sức mạnh, hoàn thành được chức năng và nhiệm vụ trong mọi hoàn cảnh, tình huống.\nChống mệnh lệnh: Là không chấp hành mệnh lệnh hoặc không thực hiện nhiệm vụ khi người chỉ huy trực tiếp hoặc cấp có thẩm quyền giao.\nĐào ngũ: Là tự ý rời khỏi đơn vị lần đầu với mục đích trốn tránh nghĩa vụ quân sự. \nVắng mặt trái phép: Là vắng mặt ở đơn vị quá 24 giờ mà không được phép của người chỉ huy có thẩm quyền.\nVi phạm pháp luật: Là hành vi (gồm hành động hoặc ý tưởng nảy sinh ra bên ngoài) trái luật và có lỗi do chủ thể có năng lực hành vi thực hiện làm xâm hại đến các quan hệ xã hội (cá nhân hoặc tổ chức) được pháp luật bảo vệ.\nVi phạm pháp luật dân sự: Là xâm phạm đến tài sản, quyền lợi dân sự: đất đai, giao dịch mua bán...\nVi phạm pháp luật hình sự (còn gọi là tội phạm): Là xâm phạm tính mạng, cá nhân, an ninh xã hội: giết người, tham ô của công...\nVi phạm pháp luật hành chính: Là xâm phạm lợi ích bản thân, công cộng: vi phạm giao thông, lấn chiếm vỉa hè...\nVi phạm kỷ luật: Là vi phạm nội quy, quy định của đơn vị, cơ quan nhà nước: Thực hiện không đúng chế độ; lãng phí của công…\nVi phạm kỷ luật thông thường: Là những hành vi vi phạm do quân nhân, hoặc tập thể quân nhân gây ra trái với kỷ luật Quân đội; nhưng không làm ảnh hưởng lớn đến việc hoàn thành nhiệm vụ của đơn vị và cá nhân; không gây thiệt hại nghiêm trọng về người, tiền của và vật chất, vũ khí, trang bị; không làm ảnh hưởng nghiêm trọng đến bản chất và truyền thống của Quân đội. Hình thức xử lý đối với loại vi phạm kỷ luật này thường chỉ giới hạn ở mức khiển trách, cảnh cáo trở xuống. \nVi phạm kỷ luật nghiêm trọng trong Quân đội: Là những hành vi vi phạm do quân nhân, hoặc tập thể quân nhân gây ra vượt quá giới hạn của vi phạm kỷ luật thông thường; làm cản trở việc thực hiện nhiệm vụ, giảm sức chiến đấu, trình độ, khả năng sẵn sàng chiến đấu của đơn vị; gây thiệt hại về người, tiền của và vật chất, vũ khí, trang bị; ảnh hưởng nghiêm trọng đến bản chất và truyền thống của Quân đội. Vi phạm kỷ luật nghiêm trọng thường gắn liền với hình thức xử lý kỷ luật từ giáng cấp, giáng chức, hạ bậc lương trở lên đối với cá nhân vi phạm và cảnh cáo; giải tán đối với tổ chức, tập thể vi phạm (chỉ áp dụng đối với tổ chức đảng)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 92. Biện pháp ngăn ngừa vi phạm pháp luật nhà nước, kỷ luật quân đội của quân nhân trong tình hình hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Một là, tăng cường giáo dục, nâng cao nhận thức, trách nhiệm, bồi dưỡng năng lực thực hành dân chủ, chấp hành kỷ luật cho quân nhân.\nHai là, thường xuyên chăm lo xây dựng, nâng cao chất lượng và hiệu quả hoạt động của các tổ chức đảng, tổ chức chỉ huy, tổ chức quần chúng và hội đồng quân nhân trong đơn vị. \nBa là, nêu cao vai trò tiền phong, gương mẫu của đội ngũ cán bộ, đảng viên và phát huy tính tích cực, tự giác của quân nhân trong chấp hành kỷ luật quân đội.\nBốn là, xây dựng môi trường văn hóa quân sự lành mạnh bảo đảm cho việc giữ nghiêm kỷ luật trong các đơn vị quân đội hiện nay.\nNăm là, phối hợp chặt chẽ giữa đơn vị, với địa phương và gia đình trong giáo dục, quản lý quân nhân để kịp thời phòng, chống vi phạm kỷ luật."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 93. Trách nhiệm của cán bộ, chiến sĩ trong ngăn ngừa vi phạm pháp luật nhà nước, kỷ luật quân đội?"
+            },
+            {
+                "role": "assistant",
+                "content": "Một là, tích cực học tập nâng cao nhận thức chính trị, trình độ hiểu biết về dân chủ, về pháp luật Nhà nước, kỷ luật, điều lệnh, điều lệ, chế độ quy định của quân đội, đơn vị.  \nHai là, tích cực tham gia xây dựng và thực hiện tốt quy chế dân chủ ở cơ sở, kịp thời đóng góp ý kiến, đề xuất những biện pháp hay nhằm nâng cao chất lượng, hiệu quả hoạt động trên các lĩnh vực công tác của đơn vị. \nBa là, tự giác chấp hành và vận động mọi người chấp hành nghiêm đường lối, chủ trương của Đảng, chính sách và pháp luật của Nhà nước, điều lệnh, điều lệ, chế độ quy định của quân đội, đơn vị. \nBốn là, tôn trọng, đoàn kết, thương yêu đồng chí, đồng đội như ruột thịt, chia sẻ ngọt bùi, đồng cam cộng khổ, tương trợ giúp đỡ lẫn nhau trong đơn vị. \nNăm là, kiên quyết đấu tranh với mọi biểu hiện tiêu cực, vi phạm dân chủ, vi phạm pháp luật Nhà nước, kỷ luật quân đội làm ảnh hưởng đến hình ảnh cao đẹp “Bộ đội Cụ Hồ”.\nPhần thứ sáu\nCÁN BỘ, CHIẾN SĨ TRONG QUÂN ĐỘI GƯƠNG MẪU CHẤP HÀNH VÀ VẬN ĐỘNG NHÂN DÂN THỰC HIỆN CHÍNH SÁCH DÂN TỘC, TÔN GIÁO CỦA ĐẢNG, NHÀ NƯỚC TA"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 94. Tình hình, đặc điểm dân tộc ở Việt Nam hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Việt Nam là quốc gia dân tộc thống nhất gồm 54 dân tộc (dân tộc Kinh và 53 dân tộc thiểu số, Gồm có: Tày, Thái, Mường, Khơ Me, H'Mông, Nùng, Hoa, Dao, Gia Rai, Ê Đê, Ba Na, Xơ Đăng, Sán Chay, Cơ Ho, Chăm, Sán Dìu, Hrê, Ra Glai, MơNông, X'tiêng, Bru-Vân Kiều, Thổ, Khơ Mú, Cơ Tu, Giáy, Giẻ- Triêng, Tà Ôi, Mạ, Co, Chơ Ro, Xinh Mun, Hà Nhì, Chu Ru, Lào, Kháng, La Chí, Phù Lá, La Hủ, La Ha, Pà Thẻn, Chứt, Lự, Lô Lô, Mảng, Cơ Lao, Bố Y, Cống, Ngái, Si La, Pu Péo, Rơ Măm, Brâu, Ơ Đu, dân tộc thiểu số chiếm khoảng 14% dân số cả nước, cư trú chủ yếu ở miền núi, vùng sâu, vùng xa, vùng biên giới), cùng cư trú, tồn tại và phát triển trên lãnh thổ Việt Nam. \nCác đặc điểm cơ bản:\n- Các dân tộc trong cộng đồng dân tộc Việt Nam chung sống hòa hợp, đoàn kết trong đấu tranh chế ngự thiên nhiên, chống ngoại xâm, xây dựng và phát triển đất nước. \n- Cư trú xen kẽ nhau, nhưng không có sự phân chia lãnh thổ và chế độ xã hội riêng.\n- Có bản sắc văn hóa riêng, tạo nên nền văn hóa Việt Nam đa dạng, phong phú, thống nhất.\n- Địa bàn cư trú của các dân tộc thiểu số có vị trí chiến lược đặc biệt quan trọng về chính trị, kinh tế, văn hóa, an ninh, quốc phòng, đối ngoại và bảo vệ môi trường sinh thái.\n- Trình độ phát triển kinh tế, văn hóa, xã hội giữa các dân tộc còn chênh lệch, khác biệt, nhiều vấn đề dân tộc đang nổi lên."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 95. Quan điểm của Đảng, Nhà nước ta về vấn đề dân tộc và đoàn kết dân tộc?"
+            },
+            {
+                "role": "assistant",
+                "content": "Quan điểm của Đảng ta về vấn đề dân tộc và đoàn kết dân tộc, là:\nMột là, dân tộc và đoàn kết dân tộc là vấn đề chiến lược cơ bản, lâu dài; đồng thời là vấn đề cấp bách hiện nay. \nHai là, các dân tộc bình đẳng, đoàn kết, thương yêu, tôn trọng và giúp nhau cùng tiến bộ. \nBa là, thực hiện bình đẳng giữa các dân tộc về chính trị, kinh tế, văn hóa, xã hội, quốc phòng, an ninh; bình đẳng về quyền và nghĩa vụ đối với sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa. \nBốn là, đoàn kết dân tộc phải trên cơ sở “lấy mục tiêu xây dựng một nước Việt Nam hòa bình, độc lập, thống nhất, toàn vẹn lãnh thổ”. \nNăm là, phát triển toàn diện chính trị, kinh tế, văn hóa, xã hội, an ninh - quốc phòng ở vùng dân tộc và miền núi, ưu tiên phát triển kinh tế - xã hội, gắn tăng trưởng kinh tế với giải quyết các vấn đề xã hội. \nSáu là, công tác dân tộc và thực hiện chính sách dân tộc là nhiệm vụ của toàn Đảng, toàn dân, toàn quân, của các cấp, các ngành, của toàn bộ hệ thống chính trị."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 96. Chính sách của Đảng, Nhà nước ta về vấn đề dân tộc và đoàn kết dân tộc?"
+            },
+            {
+                "role": "assistant",
+                "content": "Về vấn đề dân tộc và đoàn kết dân tộc được Đảng ta chỉ rõ:\nMột là, đẩy mạnh công tác xóa đói, giảm nghèo, nâng cao mức sống của đồng bào các dân tộc thiểu số, trọng tâm là đồng bào vùng cao, vùng sâu, vùng xa, khu vực biên giới, hải đảo. \nHai là, ưu tiên phát triển kinh tế miền núi, vùng đồng bào dân tộc thiểu số. Phát triển sản xuất hàng hóa phù hợp với đặc điểm, điều kiện từng vùng dân tộc.\nBa là, thực hiện có hiệu quả các chương trình phủ sóng phát thanh, truyền hình; tăng cường các hoạt động văn hóa thông tin, tuyên truyền; quan tâm xây dựng đời sống văn hóa - tinh thần ở khu dân cư, xây dựng bản làng văn hóa. \nBốn là, ưu tiên đặc biệt phát triển giáo dục và đào tạo, coi trọng đào tạo cán bộ và đội ngũ trí thức dân tộc thiểu số. \nNăm là, củng cố và nâng cao chất lượng hoạt động của hệ thống chính trị cơ sở vùng dân tộc thiểu số. \nSáu là, xây dựng thế trận quốc phòng toàn dân gắn với thế trận an ninh nhân dân, xây dựng “thế trận lòng dân” vững chắc ở vùng các dân tộc thiểu số."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 97. Tình hình, đặc điểm tôn giáo ở Việt Nam hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Việt Nam là một quốc gia có nhiều tín ngưỡng, tôn giáo, nhiều người có tín ngưỡng, tôn giáo khác nhau đang tồn tại. Đến nay, Nhà nước ta công nhận 16 tôn giáo và cấp đăng ký hoạt động cho 42 tổ chức tôn giáo, với hơn 80.000 chức sắc và nhà tu hành, 25.000 cơ sở thờ tự và trên 25.000 tín đồ, chiếm 27% dân số cả nước. Trong đó, tín đồ Phật giáo trên 13,8 triệu; Công giáo 6,6 triệu; Cao Đài 1,1 triệu; Phật giáo Hòa Hảo 1,4 triệu, Tin Lành 1,0 triệu; Hồi giáo 77 ngàn tín đồ... Về cơ sở đào tạo, Giáo hội Phật giáo có 4 học viện Phật giáo và gần 50 trường cao đẳng, trung cấp phật học; giáo hội Công giáo có 6 Đại chủng viện với hàng nghìn chủng sinh. Hằng năm, có khoảng 8.500 lễ hội, tín ngưỡng được tổ chức ở các quy mô khác nhau trên phạm vi cả nước.\n- Đại đa số tín đồ các tôn giáo là người lao động, chủ yếu là nông dân cư trú trên địa bàn cả nước, một bộ phận tín đồ là đồng bào dân tộc thiểu số theo các tôn giáo cư trú ở các địa bàn Tây Bắc, Tây Nguyên, Tây Nam Bộ.\n- Trong công cuộc đổi mới đất nước, cơ bản chức sắc, chức việc và tín đồ các tôn giáo tích cực thực hiện các chủ trương, chính sách của Đảng và Nhà nước, hành đạo trong khuôn khổ Hiến pháp, pháp luật. Phát huy tinh thần yêu nước, gắn bó với dân tộc, góp phần xây dựng khối đại đoàn kết toàn dân tộc trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.\n- Tuy nhiên, tình hình hoạt động tôn giáo còn có những diễn biến phức tạp, tiềm ẩn các yếu tố có thể gây mất ổn định ở cơ sở:\n+ Một số phần tử cực đoan trong tôn giáo đẩy mạnh củng cố tổ chức, phát triển tín đồ, phô trương thanh thế, truyền đạo trái pháp luật, kích động tín đồ đòi đất, cơ sở thờ tự của tôn giáo. \n+ Ở một số nơi, nhất là ở vùng dân tộc thiểu số (Tây Bắc, Tây Nguyên, Tây Nam Bộ), một số người đã lợi dụng tín ngưỡng, tôn giáo và sự thiếu hiểu biết của đồng bào kích động các tín đồ tham gia hoạt động gây rối, chống đối chính quyền, bạo loạn, đòi ly khai, phá hoại khối đại đoàn kết toàn dân tộc, gây mất ổn định chính trị - xã hội, như xưng vua và lập nhà nước Mông ở Tây Bắc, lập nhà nước Đề ga ở Tây Nguyên, đòi tách Nam Bộ ra khỏi Việt Nam...\n+ Thành lập các hội đoàn tôn giáo mang yếu tố chính trị, kích động tín đồ o ép, làm giảm vai trò, uy tín của đảng viên có đạo ở cơ sở. Còn có “tà đạo” phát triển yếu tố mê tín, dị đoan, phản văn hóa, trái với thuần phong, mỹ tục của dân tộc như tà đạo “Dương Văn Mình”; tà đạo “Hà Mòn”; tà đạo “Tâm linh Hồ Chí Minh”, tà đạo “Thanh Hải vô thượng sư”... \n+ Các thế lực thù địch trong và ngoài nước triệt để lợi dụng hoạt động tín ngưỡng, tôn giáo gắn với vấn đề “dân tộc”, “dân chủ”, “nhân quyền” để chống phá cách mạng nước ta."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 98. Quan điểm của Đảng, Nhà nước ta về tôn giáo và công tác tôn giáo?"
+            },
+            {
+                "role": "assistant",
+                "content": "Về vấn đề tôn giáo và công tác tôn giáo được Đảng ta chỉ rõ:\nMột là, tín ngưỡng, tôn giáo là nhu cầu tinh thần của một bộ phận nhân dân, đang và sẽ tồn tại cùng dân tộc trong quá trình xây dựng chủ nghĩa xã hội ở nước ta. Đồng bào các tôn giáo là bộ phận của khối đại đoàn kết toàn dân tộc.\nHai là, Đảng, Nhà nước ta thực hiện nhất quán chính sách đại đoàn kết toàn dân tộc, không phân biệt đối xử vì lý do tín ngưỡng, tôn giáo; đoàn kết đồng bào theo các tôn giáo khác nhau, đoàn kết đồng bào không theo tôn giáo và đồng bào theo tôn giáo. Phát huy những giá trị văn hóa, đạo đức tốt đẹp của các tôn giáo, động viên các tổ chức tôn giáo, chức sắc, tín đồ sống tốt đời, đẹp đạo, tham gia đóng góp tích cực cho công cuộc xây dựng và bảo vệ Tổ quốc.\nBa là, nội dung cốt lõi của công tác tôn giáo là công tác vận động quần chúng. Động viên đồng bào nâng cao tinh thần yêu nước, ý thức bảo vệ độc lập và thống nhất Tổ quốc thông qua thực hiện tốt các chính sách kinh tế - xã hội, quốc phòng, an ninh, bảo đảm lợi ích vật chất và tinh thần của nhân dân nói chung, trong đó có đồng bào các tôn giáo. \nBốn là, công tác tôn giáo là trách nhiệm của cả hệ thống chính trị. Công tác tôn giáo có liên quan đến nhiều lĩnh vực của đời sống xã hội, các cấp, các ngành, các địa bàn. Làm tốt công tác tôn giáo là trách nhiệm của toàn bộ hệ thống chính trị do Đảng lãnh đạo. Tổ chức bộ máy và đội ngũ cán bộ chuyên trách làm công tác tôn giáo có trách nhiệm trực tiếp, cần được củng cố và kiện toàn. Công tác quản lý nhà nước đối với các tôn giáo và đấu tranh chống việc lợi dụng tôn giáo để chống đối chế độ chỉ thành công nếu làm tốt công tác vận động quần chúng."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 99. Trách nhiệm của cán bộ, chiến sĩ trong thực hiện chính sách dân tộc, tôn giáo của Đảng, Nhà nước ta?"
+            },
+            {
+                "role": "assistant",
+                "content": "Để góp phần quan trọng vào việc thực hiện chính sách dân tộc, tôn giáo của Đảng, Nhà nước ta, mỗi cán bộ, chiến sĩ trong Quân đội cần phải làm tốt những nội dung cơ bản sau:\n- Tiếp tục quán triệt, học tập nắm vững các nghị quyết, chỉ thị của Đảng, pháp luật của Nhà nước về công tác dân tộc, tôn giáo trong tình hình mới. \n- Thực hiện tốt công tác tuyên truyền vận động đồng bào các dân tộc thiểu số, các tôn giáo thực hiện tốt các chủ trương, chính sách của Đảng và Nhà nước, tăng cường sức mạnh khối đại đoàn kết toàn dân tộc trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa. \n- Tích cực tham gia xây dựng cơ sở địa phương vùng các dân tộc thiểu số, tôn giáo vững mạnh toàn diện đáp ứng yêu cầu nhiệm vụ quốc phòng, an ninh trong tình hình mới. \n- Tham gia xây dựng thế trận quốc phòng toàn dân gắn với thế trận an ninh nhân dân, khu vực phòng thủ vững chắc ở vùng các dân tộc thiểu số, tôn giáo. \n- Thực hiện tốt chính sách dân tộc, tôn giáo đối với cán bộ, chiến sĩ là con em đồng bào các dân tộc thiểu số, các tôn giáo.\nPhần thứ bảy\nNHỮNG BIỂU HIỆN SUY THOÁI VỀ TƯ TƯỞNG CHÍNH TRỊ , \nĐẠO ĐỨC LỐI SỐNG “TỰ DIỄN BIẾN”, “TỰ CHUYỂN HÓA”  \nVÀ BIỆN PHÁP PHÒNG, CHỐNG TRONG QUÂN ĐỘI HIỆN NAY"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 100. Những biểu hiện suy thoái về tư tưởng chính trị?"
+            },
+            {
+                "role": "assistant",
+                "content": "Có 09 biểu hiện:\n- Phai nhạt lý tưởng cách mạng; dao động, giảm sút niềm tin vào mục tiêu độc lập dân tộc và chủ nghĩa xã hội; hoài nghi, thiếu tin tưởng vào chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh.\n- Xa rời tôn chỉ, mục đích của Đảng; không kiên định con đường đi lên chủ nghĩa xã hội; phụ hoạ theo những nhận thức lệch lạc, quan điểm sai trái.\n- Nhận thức sai lệch về ý nghĩa, tầm quan trọng của lý luận và học tập lý luận chính trị; lười học tập chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, chủ trương, đường lối, nghị quyết của Đảng, chính sách, pháp luật của Nhà nước.\n- Không chấp hành nghiêm các nguyên tắc tổ chức của Đảng; sa sút ý chí phấn đấu, không gương mẫu trong công tác; né tránh trách nhiệm, thiếu trách nhiệm, trung bình chủ nghĩa, làm việc qua loa, đại khái, kém hiệu quả; không còn ý thức hết lòng vì nước, vì dân, không làm tròn chức trách, nhiệm vụ được giao.\n- Trong tự phê bình còn giấu giếm, không dám nhận khuyết điểm; khi có khuyết điểm thì thiếu thành khẩn, không tự giác nhận kỷ luật. Trong phê bình thì nể nang, né tránh, ngại va chạm, thấy đúng không bảo vệ, thấy sai không đấu tranh; lợi dụng phê bình để nịnh bợ, lấy lòng nhau hoặc vu khống, bôi nhọ, chỉ trích, phê phán người khác với động cơ cá nhân không trong sáng.\n- Nói và viết không đúng với quan điểm, đường lối của Đảng, chính sách, pháp luật của Nhà nước. Nói không đi đôi với làm; hứa nhiều làm ít; nói một đằng, làm một nẻo; nói trong hội nghị khác, nói ngoài hội nghị khác; nói và làm không nhất quán giữa khi đương chức với lúc về nghỉ hưu.\n- Duy ý chí, áp đặt, bảo thủ, chỉ làm theo ý mình; không chịu học tập, lắng nghe, tiếp thu ý kiến hợp lý của người khác.\n- Tham vọng chức quyền, không chấp hành sự phân công của tổ chức; kén chọn chức danh, vị trí công tác; chọn nơi có nhiều lợi ích, chọn việc dễ, bỏ việc khó; không sẵn sàng nhận nhiệm vụ ở nơi xa, nơi có khó khăn. Thậm chí còn tìm mọi cách để vận động, tác động, tranh thủ phiếu bầu, phiếu tín nhiệm cho cá nhân một cách không lành mạnh.\n- Vướng vào “tư duy nhiệm kỳ”, chỉ tập trung giải quyết những vấn đề ngắn hạn trước mắt, có lợi cho mình; tranh thủ bổ nhiệm người thân, người quen, người nhà dù không đủ tiêu chuẩn, điều kiện giữ chức vụ lãnh đạo, quản lý hoặc bố trí, sắp xếp vào vị trí có nhiều lợi ích."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 101. Những biểu hiện suy thoái về đạo đức, lối sống?"
+            },
+            {
+                "role": "assistant",
+                "content": "Có 09 biểu hiện:\n- Cá nhân chủ nghĩa, sống ích kỷ, thực dụng, cơ hội, vụ lợi; chỉ lo thu vén cá nhân, không quan tâm đến lợi ích tập thể; ganh ghét, đố kỵ, so bì, tị nạnh, không muốn người khác hơn mình.\n- Vi phạm nguyên tắc tập trung dân chủ, gây mất đoàn kết nội bộ; đoàn kết xuôi chiều, dân chủ hình thức; cục bộ, bè phái, kèn cựa địa vị, tranh chức, tranh quyền; độc đoán, gia trưởng, thiếu dân chủ trong chỉ đạo, điều hành.\n- Kê khai tài sản, thu nhập không trung thực.\n- Mắc bệnh “thành tích”, háo danh, phô trương, che dấu khuyết điểm, thổi phồng thành tích, “đánh bóng” tên tuổi; thích được đề cao, ca ngợi; “chạy thành tích”, “chạy khen thưởng”, “chạy danh hiệu”.\n- Quan liêu, xa rời quần chúng, không sâu sát cơ sở, thiếu kiểm tra, đôn đốc, không nắm chắc tình hình địa phương, cơ quan, đơn vị mình; thờ ơ, vô cảm, thiếu trách nhiệm trước những khó khăn, bức xúc và đòi hỏi chính đáng của nhân dân.\n- Quyết định hoặc tổ chức thực hiện gây lãng phí, thất thoát tài chính, tài sản, ngân sách nhà nước, đất đai, tài nguyên...; đầu tư công tràn lan, hiệu quả thấp hoặc không hiệu quả; mua sắm, sử dụng tài sản công vượt quy định; chi tiêu công quỹ tuỳ tiện, vô nguyên tắc. Sử dụng lãng phí nguồn nhân lực, phí phạm thời gian lao động.\n- Tham ô, tham nhũng, lợi dụng chức vụ, quyền hạn cấu kết với doanh nghiệp, với đối tượng khác để trục lợi. Lợi dụng, lạm dụng chức vụ, quyền hạn được giao để dung túng, bao che, tiếp tay cho tham nhũng, tiêu cực.\n- Thao túng trong công tác cán bộ; chạy chức, chạy quyền, chạy chỗ, chạy luân chuyển, chạy bằng cấp, chạy tội... Sử dụng quyền lực được giao để phục vụ lợi ích cá nhân hoặc để người thân, người quen lợi dụng chức vụ, quyền hạn của mình để trục lợi.\n- Đánh bạc, rượu chè bê tha, mê tín dị đoan, ủng hộ hoặc tham gia các tổ chức tôn giáo bất hợp pháp. Sa vào các tệ nạn xã hội, vi phạm thuần phong, mỹ tục, truyền thống văn hoá tốt đẹp của dân tộc, chuẩn mực đạo đức gia đình và xã hội."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 102. Những biểu hiện “tự diễn biến”, “tự chuyển hóa” trong nội bộ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Có 09 biểu hiện:\n- Phản bác, phủ nhận chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh và các nguyên tắc tổ chức của Đảng, nhất là nguyên tắc tập trung dân chủ; đòi thực hiện “đa nguyên, đa đảng”.\n- Phản bác, phủ nhận nền dân chủ xã hội chủ nghĩa, Nhà nước pháp quyền xã hội chủ nghĩa; đòi thực hiện thể chế “tam quyền phân lập”, phát triển “xã hội dân sự”. Phủ nhận nền kinh tế thị trường định hướng xã hội chủ nghĩa, chế độ sở hữu toàn dân về đất đai.\n- Nói, viết, làm trái quan điểm, chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước. Hạ thấp, phủ nhận những thành quả cách mạng; thổi phồng khuyết điểm của Đảng, Nhà nước. Xuyên tạc lịch sử, bịa đặt, vu cáo các lãnh tụ tiền bối và lãnh đạo Đảng, Nhà nước.\n- Kích động tư tưởng bất mãn, bất đồng chính kiến, chống đối trong nội bộ. Lợi dụng và sử dụng các phương tiện thông tin, truyền thông, mạng xã hội để nói xấu, bôi nhọ, hạ thấp uy tín, vai trò lãnh đạo của Đảng, gây chia rẽ nội bộ, nghi ngờ trong cán bộ, đảng viên và nhân dân.\n- Phủ nhận vai trò lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng đối với lực lượng vũ trang; đòi “phi chính trị hoá” quân đội và công an; xuyên tạc đường lối quốc phòng toàn dân và an ninh nhân dân; chia rẽ quân đội với công an; chia rẽ nhân dân với quân đội và công an.\n- Móc nối, cấu kết với các thế lực thù địch, phản động và các phần tử cơ hội, bất mãn chính trị để truyền bá tư tưởng, quan điểm đối lập; vận động, tổ chức, tập hợp lực lượng để chống phá Đảng và Nhà nước.\n- Đưa thông tin sai lệch, xuyên tạc đường lối, chính sách đối ngoại của Đảng và Nhà nước; thông tin phiến diện, một chiều về tình hình quốc tế, gây bất lợi trong quan hệ giữa Việt Nam với các nước.\n- Phủ nhận vai trò lãnh đạo của Đảng đối với báo chí, văn học nghệ thuật. Tác động, lôi kéo, lái dư luận xã hội không theo đường lối của Đảng; cổ xúy cho quan điểm, tư tưởng dân chủ cực đoan; thổi phồng mặt trái của xã hội. Sáng tác, quảng bá những tác phẩm văn hoá, nghệ thuật lệch lạc, bóp méo lịch sử, hạ thấp uy tín của Đảng.\n- Có tư tưởng dân tộc hẹp hòi, tôn giáo cực đoan. Lợi dụng vấn đề “dân chủ”, “nhân quyền”, dân tộc, tôn giáo để gây chia rẽ nội bộ, gây chia rẽ giữa các dân tộc, giữa các tôn giáo, giữa dân tộc và tôn giáo, giữa các dân tộc, tôn giáo với Đảng và Nhà nước."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 103. Một số giải pháp phòng, chống suy thoái về tư tưởng chính trị , đạo đức lối sống, “tự diễn biến”, “tự chuyển hóa” trong nội bộ Quân đội hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Để phòng, chống suy thoái về tư tưởng chính trị , đạo đức lối sống, “tự diễn biến”, “tự chuyển hóa” trong nội bộ Quân đội hiện nay, cần thực hiện một số giải pháp cơ bản sau:\nMột là, nâng cao nhận thức, trách nhiệm và tinh thần chủ động đấu tranh chống “diễn biến hoà bình”, “tự diễn biến”, “tự chuyển hóa” cho cán bộ, chiến sĩ. \nHai là, phát huy sức mạnh của các tổ chức, các lực lượng trong phòng, chống suy thoái về chính trị tư tưởng, đạo đức lối sống, “tự diễn biến”, “tự chuyển hóa” trong cơ quan, đơn vị.\nBa là, thực hành dân chủ xã hội chủ nghĩa, phát huy mạnh mẽ quyền làm chủ của quân nhân, đấu tranh có hiệu quả chống tham nhũng, quan liêu và các tiêu cực, tệ nạn xã hội trong Quân đội. \nBốn là, thực hiện tốt nhiệm vụ “then chốt” xây dựng các tổ chức đảng ngang tầm với yêu cầu nhiệm vụ của cơ quan, đơn vị.\nNăm là, phát huy tính chủ động của cán bộ chủ trì, chủ chốt trong phòng, chống suy thoái về chính trị tư tưởng, đạo đức lối sống, “tự diễn biến”, “tự chuyển hóa” trong cơ quan, đơn vị.\n\nPhần thứ tám\nTRÁCH NHIỆM CỦA CÁN BỘ, CHIẾN SĨ ĐỐI VỚI \nCHỦ QUYỀN BIỂN ĐẢO VIỆT NAM HIỆN NAY"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 104. Một số hiểu biết chung về vùng biển Việt Nam?"
+            },
+            {
+                "role": "assistant",
+                "content": "Diện tích biển nước ta khoảng trên 1 triệu km2, gấp 3 lần diện tích đất liền, chiếm gần 30% diện tích Biển Đông. Vùng biển nước ta có khoảng 3.000 hòn đảo lớn, nhỏ và 2 quần đảo xa bờ là Hoàng Sa và Trường Sa. \nNội thủy của nước ta: Nội thủy là vùng nước tiếp giáp với bờ biển, ở phía trong đường cơ sở và là bộ phận lãnh thổ của Việt Nam.\nĐường cơ sở: Đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam là đường cơ sở thẳng đã được Chính phủ công bố. Chính phủ xác định và công bố đường cơ sở ở những khu vực chưa có đường cơ sở sau khi được Uỷ ban thường vụ Quốc hội phê chuẩn.\nLãnh hải: Là vùng biển có chiều rộng 12 hải lý tính từ đường cơ sở ra phía biển. Ranh giới ngoài của lãnh hải là biên giới quốc gia trên biển của Việt Nam.\nVùng tiếp giáp lãnh hải: Là vùng biển tiếp liền nằm ngoài lãnh hải Việt Nam, có chiều rộng 12 hải lý tính từ ranh giới ngoài của lãnh hải.\nVùng đặc quyền kinh tế: Là vùng biển tiếp liền và nằm ngoài lãnh hải Việt Nam, hợp với lãnh hải thành một vùng biển có chiều rộng 200 hải lý tính từ đường cơ sở.\nThềm lục địa: Thềm lục địa là vùng đáy biển và lòng đất dưới đáy biển, tiếp liền và nằm ngoài lãnh hải Việt Nam, trên toàn bộ phần kéo dài tự nhiên của lãnh thổ đất liền, các đảo và quần đảo của Việt Nam cho đến mép ngoài của rìa lục địa.\nTrong trường hợp mép ngoài của rìa lục địa này cách đường cơ sở chưa đủ 200 hải lý thì thềm lục địa nơi đó được kéo dài đến 200 hải lý tính từ đường cơ sở.\nTrong trường hợp mép ngoài của rìa lục địa này vượt quá 200 hải lý tính từ đường cơ sở thì thềm lục địa nơi đó được kéo dài không quá 350 hải lýtính từ đường cơ sở hoặc không quá 100 hải lý tính từ đường đẳng sâu 2.500 mét (m)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 105. Về biên giới quốc gia của Việt Nam?"
+            },
+            {
+                "role": "assistant",
+                "content": "Biên giới quốc gia: Là đường và mặt thẳng đứng theo đường đó để xác định giới hạn lãnh thổ đất liền, các đảo, quần đảo trong đó có quần đảo Hoàng Sa và quần đảo Trường Sa, vùng biển, lòng đất, vùng trời của nước Cộng hoà xã hội chủ nghĩa Việt Nam.\nBiên giới quốc gia trên đất liền: Được hoạch định và đánh dấu trên thực địa bằng hệ thống mốc quốc giới giữa Việt Nam với các nước láng giềng.\nBiên giới quốc gia trên biển: Là ranh giới phía ngoài lãnh hải của đất liền (cách 12 hải lý tính từ đường cơ sở), lãnh hải của đảo, lãnh hải của quần đảo của Việt Nam được xác định theo Công ước Liên Hợp quốc về Luật Biển năm 1982 và các điều ước quốc tế giữa Cộng hoà xã hội chủ nghĩa Việt Nam và các quốc gia hữu quan.\nBiên giới quốc gia trong lòng đất: Là mặt thẳng đứng từ biên giới quốc gia trên đất liền và biên giới quốc gia trên biển xuống lòng đất.\nBiên giới quốc gia trên không: Là mặt thẳng đứng từ biên giới quốc gia trên đất liền và biên giới quốc gia trên biển lên vùng trời."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 106. Quan điểm của Đảng, Nhà nước ta trong giải quyết tranh chấp, bất đồng về biên giới quốc gia?"
+            },
+            {
+                "role": "assistant",
+                "content": "Đảng khẳng định, trong giải quyết tranh chấp, bất đồng về biên giới quốc gia, cần phải: “Kiên quyết, kiên trì đấu tranh bảo vệ độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ, bảo vệ vững chắc biên giới và chủ quyền biển, đảo, vùng trời của Tổ quốc; đồng thời giữ vững môi trường hòa bình, ổn định để phát triển bền vững đất nước. Giải quyết những bất đồng, tranh chấp bằng giải pháp hòa bình trên cơ sở tôn trọng luật pháp quốc tế”."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 107. Chủ quyền và quyền chủ quyền, quyền tài phán?"
+            },
+            {
+                "role": "assistant",
+                "content": "Chủ quyền của quốc gia ven biển: Là quyền tối cao của quốc gia được thực hiện trong phạm vi vùng biển của quốc gia đó. Các quốc gia ven biển có chủ quyền đối với vùng nước nội thuỷ và lãnh hải của mình cũng như đối với vùng trời bên trên, vùng đáy biển và lòng đất dưới đáy biển bên dưới các vùng nước đó. \nQuyền chủ quyền: Là các quyền của quốc gia ven biển được hưởng trên cơ sở chủ quyền đối với mọi loại tài nguyên thiên nhiên trong vùng đặc quyền kinh tế và thềm lục địa của mình cũng như đối với những hoạt động nhằm thăm dò và khai thác vùng đặc quyền kinh tế và thềm lục địa của quốc gia đó vì mục đích kinh tế, bao gồm cả việc sản xuất năng lượng từ nước, hải lưu, gió.\nQuyền tài phán: Là thẩm quyền riêng biệt của quốc gia ven biển được quy định, cấp phép, giải quyết và xử lý đối với một số loại hình hoạt động, các đảo nhân tạo, thiết bị và công trình trên biển, trong đó có việc lắp đặt và sử dụng các đảo nhân tạo các thiết bị và công trình; nghiên cứu khoa học về biển, bảo vệ và gìn giữ môi trường biển trong vùng đặc quyền kinh tế hay thềm lục địa của quốc gia đó.\nCác biện pháp tài phán: Tòa án công lý quốc tế và Trọng tài quốc tế. Với đặc điểm cơ bản là giải quyết tranh chấp mang tính pháp lý theo trình tự, thủ tục tố tụng tư pháp (hoạt động xét xử)."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 108. Nguyên tắc cơ bản giải quyết các tranh chấp, bất đồng về biên giới, lãnh thổ, biển đảo?"
+            },
+            {
+                "role": "assistant",
+                "content": "Giải quyết các tranh chấp, bất đồng về biên giới, lãnh thổ, biển đảo cần nắm vững những nguyên tắc cơ bản sau:\n- Tôn trọng và bình đẳng về chủ quyền giữa các quốc gia. \n- Không can thiệp vào công việc nội bộ của nhau. \n- Tôn trọng quyền tự quyết của các dân tộc. \n- Không dùng vũ lực hoặc đe dọa dùng vũ lực. \n- Giải quyết tranh chấp bằng phương pháp hòa bình. \n- Các quốc gia có nghĩa vụ hợp tác lẫn nhau. \n- Tuân thủ những cam kết quốc tế."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 109. Trách nhiệm của cán bộ, chiến sĩ đối với chủ quyền biển đảo Việt Nam hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Trung thành tuyệt đối với Tổ quốc, với Đảng và nhân dân; có bản lĩnh chính trị kiên định, vững vàng, ý chí quyết tâm cao; có ý thức sâu sắc về vai trò, trách nhiệm, nghĩa vụ của mình trong bảo vệ chủ quyền biển, đảo. \n- Tích cực học tập, nghiên cứu, quán triệt và thực hiện tốt quan điểm, chủ trương của Đảng, Nhà nước trong bảo vệ chủ quyền biển, đảo.\n- Quán triệt và nắm chắc phương châm, tư tưởng chỉ đạo khi xử lý tình huống; đồng thời, không mắc mưu khiêu khích, kiềm chế, không nổ súng trước, không để nước ngoài lấn chiếm biển, đảo và không để xảy ra xung đột, đụng độ.\n- Nêu cao tinh thần cảnh giác cách mạng, sẵn sàng chiến đấu và chiến đấu, nắm chắc âm mưu, thủ đoạn của các thế lực thù địch, nhận rõ đối tượng, đối tác trong giải quyết vấn đề Biển Đông và đối tượng tác chiến của quân đội trong tình hình mới. \n- Thường xuyên học tập, nâng cao trình độ mọi mặt, nhất là trình độ tác chiến, trình độ kỹ chiến thuật, làm chủ các loại vũ khí, trang bị; khắc phục mọi khó khăn, gian khổ, bám trụ kiên cường, quyết tâm hoàn thành tốt mọi nhiệm vụ bảo vệ chủ quyền biển, đảo được giao. \nPhần thứ chín\nCHỦ NGHĨA DÂN TÚY VÀ QUAN ĐIỂM “BẤT TUÂN DÂN SỰ”"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 110. Đặc điểm cơ bản của chủ nghĩa dân túy?"
+            },
+            {
+                "role": "assistant",
+                "content": "Chủ nghĩa dân túy là trào lưu tư tưởng, đường lối chính trị mang tính mị dân, tác động vào tâm lý của đám đông để tổ chức kêu gọi, lôi kéo, tranh thủ sự ủng hộ của dư luận và quần chúng nhân dân phục vụ mục đích chính trị của cá nhân và tổ chức chính trị.\nĐặc điểm cơ bản của Chủ nghĩa dân túy: \n- Là một trào lưu tư tưởng theo đuổi những chính sách được dân chúng ủng hộ trong ngắn hạn nhưng không bền vững trong dài hạn, thường là những chính sách xã hội; ví dụ là những chính sách trợ giá hàng hóa, trả tiền lương hưu hậu hĩnh hoặc miễn phí chăm sóc y tế, v.v..\n- Là một đường hướng chính trị lấy danh nghĩa “nhân dân” làm căn bản cho tính chính danh của chế độ, tuy nhiên nhiều quan điểm của chủ nghĩa dân túy không coi “nhân dân” là toàn bộ dân số mà chỉ có một số nhóm sắc tộc.\n- Là một đường hướng chính trị sùng bái phong thái của nhà lãnh đạo. Các nhà lãnh đạo theo chủ nghĩa dân túy có khuynh hướng phát triển chung quanh họ hiện tượng sùng bái cá nhân."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 111. Những biểu hiện dân túy ở Việt Nam?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ở Việt Nam chủ nghĩa dân túy không có cơ sở kinh tế, chính trị - xã hội để tồn tại. Tuy nhiên, trong thời đại bùng nổ thông tin, mở cửa, hội nhập quốc tế sâu rộng các lĩnh vực của đời sống xã hội, những biểu hiện dân túy vẫn có cơ sở xuất hiện; có thể nhận diện các biểu hiện dân túy dưới mấy dạng cơ bản sau đây:\nMột là, những người có quan điểm dân túy hay đưa ra những phát ngôn gây sốc, cùng với những hành vi và hình ảnh “mị dân” để lấy lòng dân chúng. \nHai là, mượn danh vì dân chủ, đòi thực hiện thể chế chính trị “đa nguyên, đa đảng”, “tam quyền phân lập”. \nBa là, xuyên tạc lịch sử đấu tranh cách mạng của nhân dân ta, phủ nhận vai trò lãnh đạo của Đảng đối với Nhà nước và xã hội, đòi từ bỏ con đường đi lên chủ nghĩa xã hội. \nBốn là, lấy danh nghĩa bảo vệ chủ quyền, lợi ích quốc gia dân tộc, tuyên truyền kích động tư tưởng bài Trung, thân Mỹ."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 112. Giải pháp phòng ngừa, đấu tranh ngăn chặn các biểu hiện dân túy ở Việt Nam hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Những giải pháp cơ bản phòng ngừa, đấu tranh ngăn chặn các biểu hiện dân túy ở Việt Nam hiện nay, là:\n- Tăng cường tuyên tuyền, nâng cao nhận thức cho cán bộ, đảng viên và nhân dân, hiểu rõ tính chất nguy hại của chủ nghĩa dân túy và sự cần thiết phải đấu tranh ngăn chặn các biểu hiện dân túy ở Việt Nam hiện nay.\n- Đẩy mạnh xây dựng Đảng trong sạch, vững mạnh về chính trị, tư tưởng, tổ chức và đạo đức.\n- Tiếp tục đẩy mạnh cải cách hành chính, đấu tranh phòng chống tham nhũng, lãng phí.\n- Tiếp tục thực hiện có hiệu quả chủ trương của Đảng, chính sách và pháp luật của Nhà nước về chủ động và tích cực hội nhập quốc tế."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 113. Nhận diện về “Bất tuân dân sự”?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Bản chất của “Bất tuân dân sự” là chống lại các đạo luật, chính sách mà chủ thể “Bất tuân dân sự” cho là bất hợp lý, bất công; hình thức đấu tranh là “bất bạo động”; mục tiêu là thay đổi các đạo luật, chính sách bất hợp lý, bất công, thậm chí thay đổi chính quyền, chế độ đã sinh ra các đạo luật, chính sách đó.\n- “Bất tuân dân sự” có thể xảy ra trên các lĩnh vực, ở mọi địa phương, mọi quốc gia. Nguyên nhân trực tiếp của các vụ “Bất tuân dân sự” thường là những bức xúc, mâu thuẫn giữa người dân với chính quyền trong một sự việc, một vấn đề cụ thể (do sai lầm, yếu kém của chính quyền tích tụ lâu dài, hoặc tuyên truyền kích động của các thế lực bên ngoài).\n- “Bất tuân dân sự” thường được bắt đầu một cách tự phát của một bộ phận nhỏ người dân, nếu xử lý không tốt sẽ lây lan từ địa phương này sang địa phương khác. Vụ trước là nguồn cảm hứng cho vụ sau, nếu liên kết tốt thành phong trào lớn buộc chính quyền phải thay đổi đường lối, chính sách, tạo ra nguy cơ uy hiếp sự tồn tại của chế độ.\n- “Bất tuân dân sự” được xem là khởi đầu của mọi cuộc “cách mạng mềm”, nhằm thay đổi chính trị, hoặc ít nhất là thay đổi một chính sách."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 114. Biểu hiện của “Bất tuân dân sự” ở Việt Nam?"
+            },
+            {
+                "role": "assistant",
+                "content": "- Phản kháng chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh, đường lối quan điểm của Đảng ta.\n- Hoạt động phản đối của người dân trước việc các trạm BOT giao thông được cho là đặt sai quy định.\n- Chống đối cưỡng chế của người dân đối với chính sách di dời, giải phóng mặt bằng.\n- Lợi dụng vấn đề Biển Đông, Trường Sa tập hợp lực lượng bất mãn, phản động công kích đường lối, chính sách của Đảng, Nhà nước ta trong bảo vệ chủ quyền lãnh thổ.  \n- Lợi dụng sự cố môi trường để tổ chức tuần hành, biểu tình, hiệp thông... làm cho chính quyền và các cơ quan chức năng phải thay đổi phương án, chính sách về vấn đề này.\n- Biểu tình để phản đối các điều  trong bộ luật lao động, bộ luật hình sự..."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 115. Giải pháp giải quyết từ gốc tình trạng “Bất tuân dân sự” ở Việt Nam hiện nay?"
+            },
+            {
+                "role": "assistant",
+                "content": "Những giải pháp cơ bản giải quyết từ gốc tình trạng “Bất tuân dân sự” ở Việt Nam hiện nay, là:\n- Xây dựng, nhận thức đúng về “Bất tuân dân sự” ở Việt Nam.\n- Thực hiện đồng bộ “trị quan, chỉnh dân, trừng trị phản động”.\n- Chủ động ngăn ngừa, xử lý sớm các vấn đề có thể là tác nhân tạo ra bức xúc, phản kháng của người dân và tạo cớ cho các thế lực thù địch kích động, chống phá.\n- Chủ động chuẩn bị sẵn phương án đối phó khi các vụ “Bất tuân dân sự” diễn ra, phong tỏa kiểm duyệt thông tin, giám sát chặt chẽ và vô hiệu hóa số cầm đầu hành động vi phạm pháp luật.\nPhần thứ mười\n\nMỘT SỐ CHẾ ĐỘ, CHÍNH SÁCH CƠ BẢN ĐỐI VỚI QUÂN NHÂN \nTRONG QUÂN ĐỘI NHÂN DÂN VIỆT NAM HIỆN NAY"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 116. Chế độ nghỉ phép hằng năm đối với sĩ quan?"
+            },
+            {
+                "role": "assistant",
+                "content": "heo Thông tư số 153/2017/TT-BQP quy định:\n- Sĩ quan công tác dưới 15 năm được hưởng chế độ nghỉ phép hằng năm, là 20 ngày.\n- Sĩ quan công tác đủ 15 năm đến dưới 25 năm công tác được hưởng chế độ nghỉ phép hằng năm, là 25 ngày.\n- Sĩ quan công tác đủ 25 năm trở lên được hưởng chế độ nghỉ phép hằng năm, là 30 ngày.\n- Ngoài chế độ nghỉ phép hằng năm, sĩ quan được nghỉ phép đặc biệt mỗi lần được nghỉ thêm 10 ngày đối với các trường hợp: Đóng quân cách xa gia đình từ 500 km trở lên; đóng quân ở địa bàn vùng sâu, vùng xa, vùng biên giới cách xa gia đình từ 300 km trở lên; đóng quân tại các đảo thuộc quần đảo Trường Sa, DK. \n- Trường hợp sĩ quan đóng quân cách xa gia đình từ 300 km đến dưới 500 km; đóng quân ở địa bàn vùng sâu, vùng xa, vùng biên giới cách xa gia đình từ 200 km trở lên và có hệ số khu vực 0,5 trở lên; đóng quân tại các đảo được hưởng phụ cấp khu vực thì khi nghỉ phép hằng năm được nghỉ thêm, là: 5 ngày."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 117. Chế độ nghỉ phép hằng năm đối với QNCN, CNVQP?"
+            },
+            {
+                "role": "assistant",
+                "content": "heo Thông tư số 113/2016/TT-BQP quy định:\n- Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có thời gian phục vụ dưới 15 năm được nghỉ phép hàng năm là: 20 ngày.\n- Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có thời gian phục vụ đủ 15 năm phục vụ đến dưới 25 năm phục vụ được nghỉ phép hằng năm, là: 25 ngày.\n- Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có thời gian phục vụ đủ 25 năm phục vụ trở lên được nghỉ phép hằng năm, là: 30 ngày.\n- Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng đóng quân cách xa gia đình từ 500 km trở lên hoặc tại các đảo thuộc quần đảo Trường Sa, DK được nghỉ thêm: 10 ngày mỗi năm.\n- Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng đóng quân cách xa gia đình từ 300 km đến dưới 500 km; đóng quân ở địa bàn vùng sâu, vùng xa, vùng biên giới cách xa gia đình từ 200 km đến dưới 300 km và đang hưởng phụ cấp khu vực hệ số từ 0,5 đến 0,7 hoặc tại các đảo hưởng phụ cấp khu vực hệ số từ 0,1 đến dưới 0,1 được nghỉ thêm 05 ngày mỗi năm."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 118. Chế độ chính sách được hưởng đối với sĩ quan và thân nhân khi ốm đau, từ trần?"
+            },
+            {
+                "role": "assistant",
+                "content": "hông tư số 09/2012/TT-BQP ngày 08/02/2012 của BQP Quy định: \n- Bản thân ốm đau từ một tháng trở lên hoặc phải điều trị một lần tại bệnh viện từ 07 (bảy) ngày trở lên, được trợ cấp với các mức như sau: Sĩ quan cấp tướng: 1.000.000 đồng/lần; Sĩ quan cấp tá: 700.000 đồng/lần; Sĩ quan cấp uý: 500.000 đồng/lần.\n- Bố, mẹ đẻ; bố, mẹ vợ hoặc chồng; người nuôi dưỡng hợp pháp; vợ hoặc chồng; con đẻ, con nuôi hợp pháp hy sinh hoặc từ trần: Được trợ cấp 1.000.000 đồng/trường hợp."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 119. Chế độ nghỉ phép và chính sách đối với hạ sĩ quan, binh sĩ?"
+            },
+            {
+                "role": "assistant",
+                "content": "Nghị định số 27/2016/NĐ-CP, ngày 06/4/2016 của Chính phủ Quy định: \n- Từ tháng thứ mười ba trở đi thì được nghỉ phép hằng năm; thời gian nghỉ là: 10 ngày (không kể ngày đi và về) và được thanh toán tiền tàu, xe, tiền phụ cấp đi đường theo quy định hiện hành.\n- Trường hợp đặc biệt do yêu cầu nhiệm vụ chiến đấu, sẵn sàng chiến đấu hoặc ở những nơi điều kiện đi lại khó khăn không thể giải quyết cho nghỉ phép thì được thanh toán bằng tiền là một ngày không nghỉ phép bằng mức tiền ăn cơ bản 01 ngày của hạ sĩ quan, binh sĩ bộ binh.\n- Nếu gia đình gặp thiên tai, hỏa hoạn nặng hoặc bố, mẹ đẻ; bố, mẹ vợ hoặc bố, mẹ chồng; người nuôi dưỡng hợp pháp; vợ hoặc chồng và con đẻ, con nuôi hợp pháp từ trần, mất tích hoặc hạ sĩ quan, binh sĩ lập được thành tích đặc biệt xuất sắc trong thực hiện nhiệm vụ thì được nghỉ phép đặc biệt, thời gian không quá 05 ngày.\n- Chế độ phụ cấp thêm do kéo dài thời gian phục vụ tại ngũ và chế độ phụ cấp khuyến khích đối với hạ sĩ quan, binh sĩ nữ phục vụ tại ngũ ngoài chế độ phụ cấp quân hàm được hưởng theo quy định, hạ sĩ quan, binh sĩ phục vụ tại ngũ, được Bộ trưởng Bộ Quốc phòng quyết định kéo dài thời gian phục vụ tại ngũ thì từ tháng thứ hai mươi lăm trở đi, hàng tháng được hưởng thêm 250% phụ cấp quân hàm hiện hưởng.\n- Chế độ phụ cấp thêm do kéo dài thời gian phục vụ tại ngũ và chế độ phụ cấp khuyến khích đối với hạ sĩ quan, binh sĩ nữ phục vụ tại ngũ, hàng tháng được hưởng phụ cấp khuyến khích mức 0,2 so với mức lương cơ sở.\n- Khi nhà ở của hạ sĩ quan, binh sĩ tại ngũ gặp tai nạn, hoả hoạn, thiên tai dẫn đến bị sập nhà, trôi nhà, cháy nhà hoặc phải di dời chỗ ở hoặc tài sản bị hư hỏng, thiệt hại nặng về kinh tế thì được trợ cấp mức 3.000.000 đồng/suất/lần.\n- Thân nhân của hạ sĩ quan, binh sĩ tại ngũ ốm đau từ 01 tháng trở lên hoặc Điều trị 01 lần tại bệnh viện từ 07 ngày trở lên thì được trợ cấp mức: 500.000 đồng/thân nhân/lần.\n- Thân nhân của hạ sĩ quan, binh sĩ tại ngũ hy sinh, từ trần hoặc mất tích thì được trợ cấp mức: 2.000.000 đồng/người.\n- Hạ sĩ quan, binh sĩ hoàn thành nghĩa vụ phục vụ tại ngũ theo quy định của Luật Nghĩa vụ quân sự khi xuất ngũ được trợ cấp tạo việc làm theo quy định của Chính phủ tại thời Điểm xuất ngũ là 06 tháng tiền lương cơ sở.\n- Hạ sĩ quan, binh sĩ khi xuất ngũ được đơn vị trực tiếp quản lý tổ chức buổi gặp mặt chia tay trước khi xuất ngũ, mức chi: 50.000 đồng/người.\n- Bố, mẹ đẻ; bố, mẹ vợ hoặc chồng; người nuôi dưỡng hợp pháp; vợ hoặc chồng; con đẻ; con nuôi hợp pháp ốm đau từ một tháng trở lên hoặc phải điều trị một lần tại bệnh viện từ 07 (bảy) ngày trở lên: Được trợ cấp 500.000 đồng/suất/lần."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Câu 120. Chế độ, định mức, tiêu chuẩn đời sống văn hóa, tinh thần trong Quân đội nhân dân Việt Nam?"
+            },
+            {
+                "role": "assistant",
+                "content": "heo Thông tư 104/2014/TT-BQP ngày 13/8/2014 của Bộ Quốc phòng:\n- Quy định về chế độ, định mức, tiêu chuẩn đời sống văn hóa, tinh thần trong Quân đội nhân dân Việt Nam: Cấp trung đội và tương đương được cấp 02 số báo, tạp chí; cấp đại đội và tương đương được cấp 11 số báo, tạp chí; cấp tiểu đoàn và tương đương được cấp 07 số báo, tạp chí; cấp trung, lữ đoàn và tương đương được cấp 09 số báo, tạp chí. Phòng Hồ Chí Minh được cấp 16 số báo, tạp chí. Thư viện cấp trung, lữ đoàn được cấp 26 số báo, tạp chí. \n- Bảo đảm chế độ, định mức tiêu chuẩn sách cho một người trong năm bình quân 300 trang sách/người/năm.\n- Bảo đảm chế độ, định mức tiêu chuẩn sách cho một người trên quần đảo Trường Sa, nhà giàn DK1 là 350 trang sách/ người/ năm.\n- Bộ đội được xem 02 buổi/năm biểu diễn nghệ thuật chuyên nghiệp trong hoặc ngoài quân đội. \n\t- Chế độ hoạt động văn hóa văn nghệ cấp đại đội 1 tuần/1 lần.\n\t- Chế độ sinh hoạt giao lưu văn hóa cấp tiểu đoàn 1 tháng/1 lần."
+            }
+        ]
+    }
+]
